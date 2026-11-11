@@ -1,0 +1,73 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "2CO",
+  "chapter_count": 13,
+  "verse_count": 257,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 24,
+      "sha256": "b5d42fc8e41b74f654063c79e89217fb7d7175181251ebc8445180e62911974b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "41d2d8c6c782dbc82263ab6bf321de40362b2cfa84bcbf4fd5bb27e011350064"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "86b5877ef1df0233f74cff99c349b3b4d5c590e543cf6829c5436f785531b597"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "d631b1928b2f81ac7c26cac48a630488a51368957cf1ce8950c87abdc2675463"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 21,
+      "sha256": "b18a0f03981c8bda65cbe5c7b4141903e263a3533af43ab21ea6982f5993f9f1"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 18,
+      "sha256": "eab1a4dca75605fcb44fd0d108af0abc2e7159288b372cd8a07051b8ccf1b259"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 16,
+      "sha256": "a287b2539cf460786bb18bf2782edf0472e9f695628781360496fce0ea597daa"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 24,
+      "sha256": "d278217b8b6f82dbf2a114990250f0081f14b404e373f5a1a5813f4bc5746039"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "7bc2a5f33d7465e3eade7ac030c57f52e8d2a3d6c7bbeac3253bc6b61301f530"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 18,
+      "sha256": "2d363ff99c48d386ed11e19b55e43470ae435d676fe6f014c64f4e975667387a"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 33,
+      "sha256": "81bdc831d423bdf0d1ea3a266b719c2a0a70edd37831c5662838a4cab616b449"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 21,
+      "sha256": "1592233a06b19df3c485ddf3c3ba3f9e7166b88842a0560bbf1639059522cb85"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 14,
+      "sha256": "d8e491004d1d9ea669250cd4bd99f0506ebc63130b05e73e20c77b1ed5fd5da3"
+    }
+  ]
+}

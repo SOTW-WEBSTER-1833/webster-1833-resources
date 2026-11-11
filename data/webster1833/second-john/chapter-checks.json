@@ -1,0 +1,13 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "2JN",
+  "chapter_count": 1,
+  "verse_count": 13,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 13,
+      "sha256": "622153bc6ec1584cd26453a3d481095747faeef93d6e5e87aea6b641bef8a9da"
+    }
+  ]
+}
