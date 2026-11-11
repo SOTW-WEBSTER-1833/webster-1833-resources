@@ -1,0 +1,15 @@
+{
+  "status": "PASS_SOURCE_PROJECTION_CHECKS",
+  "source_archive_sha256": "0f3c1122422adba66cf1e0c98e11db117beebbe40994d2d8afb5e80cc84942cf",
+  "edition_id": "WEBSTER1833",
+  "book_code": "JOB",
+  "book_name": "Job",
+  "chapter_count": 42,
+  "verse_count": 1070,
+  "source_verse_markers": 1070,
+  "source_supplied_word_runs": 763,
+  "source_word_link_tags": 0,
+  "source_footnotes": 0,
+  "data_schema": "ASV/KJV-compatible v1.0.0 chapter records",
+  "limitations": "No independent character-for-character comparison to a first-print 1833 edition or GitHub Pages browser verification."
+}
