@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "2TH",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 12,
+      "sha256": "2c8b1fd500a89ad17e9f91d7d28848375e542400093bf5c8a532e399816368dd"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "dd70311d9394bca5fd3eac47728ee0033e1289134daffa7b95211330f73d7f0e"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "2e288059a6a376d556ac4efe806063accd1872da1ae118151ea8f70b79b08b57"
+    }
+  ]
+}

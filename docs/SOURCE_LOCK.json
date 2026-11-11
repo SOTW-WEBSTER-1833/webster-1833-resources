@@ -1,0 +1,479 @@
+{
+  "source_archive": "engwebster_usfm.zip",
+  "archive_sha256": "0f3c1122422adba66cf1e0c98e11db117beebbe40994d2d8afb5e80cc84942cf",
+  "source_page": "https://ebible.org/engwebster",
+  "upstream_download": "https://ebible.org/Scriptures/engwebster_usfm.zip",
+  "source_title": "Noah Webster Bible",
+  "source_id": "engwebster",
+  "source_description": "Noah Webster 1833 revision of common English Bible, USFM edition",
+  "source_generated_at_in_archived_copyright_page": "2026-10-30",
+  "source_signed_manifest": "signature.txt.asc",
+  "signed_sha256_entry_count": 68,
+  "signed_manifest_hash_verification": "68_OF_68_MATCH",
+  "signed_manifest_signature_cryptographically_verified": false,
+  "source_files": [
+    {
+      "book_code": "GEN",
+      "source_file": "02-GENengwebster.usfm",
+      "sha256": "6c9f5e214342f39c53945703f2c3a74cbbbc689823f87ab0f9ca6a9140549f56",
+      "chapter_count": 50,
+      "verse_count": 1533
+    },
+    {
+      "book_code": "EXO",
+      "source_file": "03-EXOengwebster.usfm",
+      "sha256": "11e2a031b5284e0564e9b80f508a34c82d7b15da8011e56cbc9e529d169a76d7",
+      "chapter_count": 40,
+      "verse_count": 1213
+    },
+    {
+      "book_code": "LEV",
+      "source_file": "04-LEVengwebster.usfm",
+      "sha256": "71da52e65ce09f4b4359a9eec30bd42632ed14fc9fd057626ddbcc089bb61e76",
+      "chapter_count": 27,
+      "verse_count": 859
+    },
+    {
+      "book_code": "NUM",
+      "source_file": "05-NUMengwebster.usfm",
+      "sha256": "309058e2533b8fd7b74058c21a20cb4a428af4730fbfe6edd75b42f6b9085dae",
+      "chapter_count": 36,
+      "verse_count": 1288
+    },
+    {
+      "book_code": "DEU",
+      "source_file": "06-DEUengwebster.usfm",
+      "sha256": "54ea2d2884e935afe918fc01232e50b10a41cdc5c46a452df4eb3365ff845370",
+      "chapter_count": 34,
+      "verse_count": 959
+    },
+    {
+      "book_code": "JOS",
+      "source_file": "07-JOSengwebster.usfm",
+      "sha256": "bb691ddba9e4f5426741e3eecbca9036e89fb250e8576113204c8be187283698",
+      "chapter_count": 24,
+      "verse_count": 658
+    },
+    {
+      "book_code": "JDG",
+      "source_file": "08-JDGengwebster.usfm",
+      "sha256": "bc43b294bdd93ba6cc5df8ab0bc38eaad1a5a85c8e377da7ca28e3041e71b0d5",
+      "chapter_count": 21,
+      "verse_count": 618
+    },
+    {
+      "book_code": "RUT",
+      "source_file": "09-RUTengwebster.usfm",
+      "sha256": "d118835c095a79e24e7af77166a630ae0d20307f6fc1e931e49f0891132ae371",
+      "chapter_count": 4,
+      "verse_count": 85
+    },
+    {
+      "book_code": "1SA",
+      "source_file": "10-1SAengwebster.usfm",
+      "sha256": "01ab91032bf1e6e2c2682519526a25b212712e44c58f9636b8be4ca9813bb0f5",
+      "chapter_count": 31,
+      "verse_count": 810
+    },
+    {
+      "book_code": "2SA",
+      "source_file": "11-2SAengwebster.usfm",
+      "sha256": "bb5bc7d2aeb28025f75d2019770ce98e6f7d8c9eef6d1a47c159f1442a50a48a",
+      "chapter_count": 24,
+      "verse_count": 695
+    },
+    {
+      "book_code": "1KI",
+      "source_file": "12-1KIengwebster.usfm",
+      "sha256": "4fe8d1f19dc4b85a631a518eed722af0953fad1bae69472a54998eac79362509",
+      "chapter_count": 22,
+      "verse_count": 816
+    },
+    {
+      "book_code": "2KI",
+      "source_file": "13-2KIengwebster.usfm",
+      "sha256": "872143fed1a6e02ca5df68605763c22f07dfe8b66eb78252c7775fbbf16b4f9b",
+      "chapter_count": 25,
+      "verse_count": 719
+    },
+    {
+      "book_code": "1CH",
+      "source_file": "14-1CHengwebster.usfm",
+      "sha256": "318e19c14bf82bf6dc23a09b6f6c3ff6cc17f1416063cc40c8d517ca375c76ae",
+      "chapter_count": 29,
+      "verse_count": 942
+    },
+    {
+      "book_code": "2CH",
+      "source_file": "15-2CHengwebster.usfm",
+      "sha256": "a922221cbacc5b33cf3d71feddbf8f0a7fbbcc204a51c3e0e639cd1437bcfdfb",
+      "chapter_count": 36,
+      "verse_count": 822
+    },
+    {
+      "book_code": "EZR",
+      "source_file": "16-EZRengwebster.usfm",
+      "sha256": "348e59424692726fcb27ec50a845fe347f6e4234af074ae1a3068a2f9074daf8",
+      "chapter_count": 10,
+      "verse_count": 280
+    },
+    {
+      "book_code": "NEH",
+      "source_file": "17-NEHengwebster.usfm",
+      "sha256": "544e9de9d420a173c18c0687952ea7ff11cdda04993bb29969d1e5ffe0e1bc5f",
+      "chapter_count": 13,
+      "verse_count": 406
+    },
+    {
+      "book_code": "EST",
+      "source_file": "18-ESTengwebster.usfm",
+      "sha256": "93b3d41e68bf80261704e8c86b6e9d4b27604cd3df0384a68e647bbe377df990",
+      "chapter_count": 10,
+      "verse_count": 167
+    },
+    {
+      "book_code": "JOB",
+      "source_file": "19-JOBengwebster.usfm",
+      "sha256": "b446fde4a8e3431832baddd5bc048520fa00f2444e9d55d60dfc6e3bd4290518",
+      "chapter_count": 42,
+      "verse_count": 1070
+    },
+    {
+      "book_code": "PSA",
+      "source_file": "20-PSAengwebster.usfm",
+      "sha256": "57aff133425784a058184597d43785336c0475aaedc5bd23952378c93035b32d",
+      "chapter_count": 150,
+      "verse_count": 2461
+    },
+    {
+      "book_code": "PRO",
+      "source_file": "21-PROengwebster.usfm",
+      "sha256": "41109a91b0c6eaa11b27a8ef44ad758e1a24b53962fe71d73b93f8b1f02a4a38",
+      "chapter_count": 31,
+      "verse_count": 915
+    },
+    {
+      "book_code": "ECC",
+      "source_file": "22-ECCengwebster.usfm",
+      "sha256": "75a6981815c154323ac3b4b7a75536a6d0221516581784750b9b41204ab1773c",
+      "chapter_count": 12,
+      "verse_count": 222
+    },
+    {
+      "book_code": "SNG",
+      "source_file": "23-SNGengwebster.usfm",
+      "sha256": "9930522067a09780c7edef0e2c8fcc4db577cf91f176d1a9d17bd9520a65fdb5",
+      "chapter_count": 8,
+      "verse_count": 117
+    },
+    {
+      "book_code": "ISA",
+      "source_file": "24-ISAengwebster.usfm",
+      "sha256": "5521e4ab50075e80d4d5406ccdb481faafce467718437ddb277342e5c085b30c",
+      "chapter_count": 66,
+      "verse_count": 1292
+    },
+    {
+      "book_code": "JER",
+      "source_file": "25-JERengwebster.usfm",
+      "sha256": "fb726f4f35571f696231443eabe8556136961d3e48896318eb5b73dd2e428b17",
+      "chapter_count": 52,
+      "verse_count": 1364
+    },
+    {
+      "book_code": "LAM",
+      "source_file": "26-LAMengwebster.usfm",
+      "sha256": "e8469707fe042fc0864b7551acafd71016e8c30e18d6c4751d7ba51fc3e25651",
+      "chapter_count": 5,
+      "verse_count": 154
+    },
+    {
+      "book_code": "EZK",
+      "source_file": "27-EZKengwebster.usfm",
+      "sha256": "09027ef4ff87c200874a2d71a1e56cc2408991db07cb2d52e213fb0ddb18c142",
+      "chapter_count": 48,
+      "verse_count": 1273
+    },
+    {
+      "book_code": "DAN",
+      "source_file": "28-DANengwebster.usfm",
+      "sha256": "84d02250b3b8c2ca8890fd54c5ad1c67cc5c78598e136d3a9e373ada70266662",
+      "chapter_count": 12,
+      "verse_count": 357
+    },
+    {
+      "book_code": "HOS",
+      "source_file": "29-HOSengwebster.usfm",
+      "sha256": "79f77aaf2490e7f430b8782f168c74b3e7184b2b9e18c06a64bffaf94805ebcf",
+      "chapter_count": 14,
+      "verse_count": 197
+    },
+    {
+      "book_code": "JOL",
+      "source_file": "30-JOLengwebster.usfm",
+      "sha256": "ee944fbfd44b303031a15c1f7d43f3390fd4e1ab22e3bb5367e66d1af7bdfcf0",
+      "chapter_count": 3,
+      "verse_count": 73
+    },
+    {
+      "book_code": "AMO",
+      "source_file": "31-AMOengwebster.usfm",
+      "sha256": "23b3cb3b8298ca234003f280877bf55f0166f97fb1fc43f8d5cb3914dfbc4dac",
+      "chapter_count": 9,
+      "verse_count": 146
+    },
+    {
+      "book_code": "OBA",
+      "source_file": "32-OBAengwebster.usfm",
+      "sha256": "39eee50c3fddc3d515317dfa2f13872ee5d442385f461e164e47a6797ab0ee3e",
+      "chapter_count": 1,
+      "verse_count": 21
+    },
+    {
+      "book_code": "JON",
+      "source_file": "33-JONengwebster.usfm",
+      "sha256": "5f5fe8a6fcc3e55ddb7bf52f55971ec0e2ea823d360eedc381bec2755487ac0f",
+      "chapter_count": 4,
+      "verse_count": 48
+    },
+    {
+      "book_code": "MIC",
+      "source_file": "34-MICengwebster.usfm",
+      "sha256": "41873246a21d47308c3b9ae5ac12a3f454ed754ebde02ac6d216f73662db1dc5",
+      "chapter_count": 7,
+      "verse_count": 105
+    },
+    {
+      "book_code": "NAM",
+      "source_file": "35-NAMengwebster.usfm",
+      "sha256": "6b927a989ce8f5d0e8a0041b02588f60fa97f968c72cb2907f38fccac60b1c51",
+      "chapter_count": 3,
+      "verse_count": 47
+    },
+    {
+      "book_code": "HAB",
+      "source_file": "36-HABengwebster.usfm",
+      "sha256": "6791eeae4a37fc2c974cb82df77d054e2a59e34c96dbca24704f6296ea4645ea",
+      "chapter_count": 3,
+      "verse_count": 56
+    },
+    {
+      "book_code": "ZEP",
+      "source_file": "37-ZEPengwebster.usfm",
+      "sha256": "43b499cef1693698b463ca5042deb9167462d35ec0e37167545aa5e8a0dec869",
+      "chapter_count": 3,
+      "verse_count": 53
+    },
+    {
+      "book_code": "HAG",
+      "source_file": "38-HAGengwebster.usfm",
+      "sha256": "4e536154d6e8ad3b00d0fa3dbe6fbf2f34ab5f529b49e9cf2761fa50ac56aa3c",
+      "chapter_count": 2,
+      "verse_count": 38
+    },
+    {
+      "book_code": "ZEC",
+      "source_file": "39-ZECengwebster.usfm",
+      "sha256": "e974bdf50473fe66e8564d4a75077f0e3e22bac0d012bcfcf80242b600951370",
+      "chapter_count": 14,
+      "verse_count": 211
+    },
+    {
+      "book_code": "MAL",
+      "source_file": "40-MALengwebster.usfm",
+      "sha256": "27a804283252332c0b34214b15e913e67b00104e80e13c66d524a9ea97c7317a",
+      "chapter_count": 4,
+      "verse_count": 55
+    },
+    {
+      "book_code": "MAT",
+      "source_file": "70-MATengwebster.usfm",
+      "sha256": "0e42b687598035e7323378017692111914eebe8f3328f162b37e53778208051e",
+      "chapter_count": 28,
+      "verse_count": 1071
+    },
+    {
+      "book_code": "MRK",
+      "source_file": "71-MRKengwebster.usfm",
+      "sha256": "f7981e2a14fb65ebf8835c1788b09ae88767de70500f3f5408f4ad3c7791146f",
+      "chapter_count": 16,
+      "verse_count": 678
+    },
+    {
+      "book_code": "LUK",
+      "source_file": "72-LUKengwebster.usfm",
+      "sha256": "e07ef4838d40c367e67c2b8b57de95b8ae223407d5417009bef48a3c8ab41c37",
+      "chapter_count": 24,
+      "verse_count": 1151
+    },
+    {
+      "book_code": "JHN",
+      "source_file": "73-JHNengwebster.usfm",
+      "sha256": "74069e8403828264548536810111234d3c2749f14072637a4a84f3866e96cb08",
+      "chapter_count": 21,
+      "verse_count": 879
+    },
+    {
+      "book_code": "ACT",
+      "source_file": "74-ACTengwebster.usfm",
+      "sha256": "6104ca8f879d8808ce7e8f44d4fbd98ae28748d80d38a47faac37c200e512411",
+      "chapter_count": 28,
+      "verse_count": 1007
+    },
+    {
+      "book_code": "ROM",
+      "source_file": "75-ROMengwebster.usfm",
+      "sha256": "397e2da4ee4745af01d21485ca4b903865616dce3305adaad7e9cc95b8d40b65",
+      "chapter_count": 16,
+      "verse_count": 433
+    },
+    {
+      "book_code": "1CO",
+      "source_file": "76-1COengwebster.usfm",
+      "sha256": "7fc7dd97affa36a37c5f4fbd420b30f1cfa7fd65aaabbd55d59084059a89bbea",
+      "chapter_count": 16,
+      "verse_count": 437
+    },
+    {
+      "book_code": "2CO",
+      "source_file": "77-2COengwebster.usfm",
+      "sha256": "3f10a8d0fdbb694fc6f3a2b165b36bbf2a162adae02c707b72a238850765074c",
+      "chapter_count": 13,
+      "verse_count": 257
+    },
+    {
+      "book_code": "GAL",
+      "source_file": "78-GALengwebster.usfm",
+      "sha256": "f46e9bf3fcb9fb9e8ea949085abe20ab41271a82aeeae35e45d6c769bc96e26e",
+      "chapter_count": 6,
+      "verse_count": 149
+    },
+    {
+      "book_code": "EPH",
+      "source_file": "79-EPHengwebster.usfm",
+      "sha256": "96d7cfdabddfe928e3c3eac6a1825a8796f0dbe27d53a815ef4ffa688dfc058d",
+      "chapter_count": 6,
+      "verse_count": 155
+    },
+    {
+      "book_code": "PHP",
+      "source_file": "80-PHPengwebster.usfm",
+      "sha256": "ceb67d2a2bcc877c0eefa5ecb85e0e379a02131a1a9c469bf0be8ae2e24cf287",
+      "chapter_count": 4,
+      "verse_count": 104
+    },
+    {
+      "book_code": "COL",
+      "source_file": "81-COLengwebster.usfm",
+      "sha256": "ca4e1d0c544904aeef14852e1b0d8cec039014604895674c55d91d0930a0a0d5",
+      "chapter_count": 4,
+      "verse_count": 95
+    },
+    {
+      "book_code": "1TH",
+      "source_file": "82-1THengwebster.usfm",
+      "sha256": "9e0a46196133033586bf0cdbd8d2fa445ea0dc7f1f53b23c0e02608c2a75ade1",
+      "chapter_count": 5,
+      "verse_count": 89
+    },
+    {
+      "book_code": "2TH",
+      "source_file": "83-2THengwebster.usfm",
+      "sha256": "1a4c326f1cd33268144572ba90f8234ce1b05a132213f389fa370b95d61c0975",
+      "chapter_count": 3,
+      "verse_count": 47
+    },
+    {
+      "book_code": "1TI",
+      "source_file": "84-1TIengwebster.usfm",
+      "sha256": "c134a8b894748496a96d4bc5b2592ba9b9494c2e779bbe42c29c361f27cf3c06",
+      "chapter_count": 6,
+      "verse_count": 113
+    },
+    {
+      "book_code": "2TI",
+      "source_file": "85-2TIengwebster.usfm",
+      "sha256": "6196b75b74b0e257a88028af0c05b840b1d1fd19b488f7426d783b07f81bde32",
+      "chapter_count": 4,
+      "verse_count": 83
+    },
+    {
+      "book_code": "TIT",
+      "source_file": "86-TITengwebster.usfm",
+      "sha256": "421e521420a3bc3cd0e0d803006802a54ecbf6276c805493d69eda7fe3253ad3",
+      "chapter_count": 3,
+      "verse_count": 46
+    },
+    {
+      "book_code": "PHM",
+      "source_file": "87-PHMengwebster.usfm",
+      "sha256": "e6a76cb430ad9c1e7aa0050f327868b000b6bc439aad8055109251fb93552730",
+      "chapter_count": 1,
+      "verse_count": 25
+    },
+    {
+      "book_code": "HEB",
+      "source_file": "88-HEBengwebster.usfm",
+      "sha256": "aa95dba7e3dc2bceae72c080dd9a91eb1249ab01021272d347465784e45b19fd",
+      "chapter_count": 13,
+      "verse_count": 303
+    },
+    {
+      "book_code": "JAS",
+      "source_file": "89-JASengwebster.usfm",
+      "sha256": "519d8d0dbbd5d5524e2294db4d3c990bbc8c9e5f89e7c507a496af4107fe43ba",
+      "chapter_count": 5,
+      "verse_count": 108
+    },
+    {
+      "book_code": "1PE",
+      "source_file": "90-1PEengwebster.usfm",
+      "sha256": "e95ca6945df7863f97f10bcfb971693a6068309e56d8e3ec30510db0fbbd9468",
+      "chapter_count": 5,
+      "verse_count": 105
+    },
+    {
+      "book_code": "2PE",
+      "source_file": "91-2PEengwebster.usfm",
+      "sha256": "32f781a913655070a56acbeba23b8227aa4dbae45d2e27436ecdc8fcf4239c6a",
+      "chapter_count": 3,
+      "verse_count": 61
+    },
+    {
+      "book_code": "1JN",
+      "source_file": "92-1JNengwebster.usfm",
+      "sha256": "9cb87dd7a01589b719f7cd6dd8b7ae64b9f8cda87066cb0236104f98061be8b4",
+      "chapter_count": 5,
+      "verse_count": 105
+    },
+    {
+      "book_code": "2JN",
+      "source_file": "93-2JNengwebster.usfm",
+      "sha256": "ea5413ecc5699758972bbfd0982a4b5c3e931fb5419a961e7ec9153e2b67b4d3",
+      "chapter_count": 1,
+      "verse_count": 13
+    },
+    {
+      "book_code": "3JN",
+      "source_file": "94-3JNengwebster.usfm",
+      "sha256": "c65414e6ab2178d7a8667973161d83a493ebf97d9cf388934b1143f2277ac36a",
+      "chapter_count": 1,
+      "verse_count": 14
+    },
+    {
+      "book_code": "JUD",
+      "source_file": "95-JUDengwebster.usfm",
+      "sha256": "7c288afb3c20b72d523e7559069ad8b0acb48988c15947719c7ee45cb489cb8f",
+      "chapter_count": 1,
+      "verse_count": 25
+    },
+    {
+      "book_code": "REV",
+      "source_file": "96-REVengwebster.usfm",
+      "sha256": "cb1a3ebb586d886b00e9432409617b138f139baa13acf4dc59b6cf78df612c68",
+      "chapter_count": 22,
+      "verse_count": 404
+    }
+  ],
+  "rights": "Public Domain per source copr.htm. Digital source attribution is stored as metadata only, not displayed in reader."
+}

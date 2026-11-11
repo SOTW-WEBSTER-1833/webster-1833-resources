@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "translation_title": "Noah Webster's Bible",
+  "first_publication_year": 1833,
+  "digital_source_id": "engwebster",
+  "digital_format": "USFM",
+  "canon": "Protestant 66 books",
+  "source_url": "https://ebible.org/engwebster",
+  "source_archive_sha256": "0f3c1122422adba66cf1e0c98e11db117beebbe40994d2d8afb5e80cc84942cf",
+  "presenting_library": "Servants of the Way Digital Library",
+  "public_display_label": "Webster's Bible · 1833",
+  "rights_summary": "Public Domain per eBible source copr.htm",
+  "capabilities": {
+    "verses": true,
+    "chapter_navigation": true,
+    "book_navigation": true,
+    "supplied_word_italics": true,
+    "source_note_archival": true,
+    "source_pdf_scan": false,
+    "embedded_strongs": false,
+    "original_language_word_click_ui": false,
+    "historical_commentary_ui": false
+  }
+}

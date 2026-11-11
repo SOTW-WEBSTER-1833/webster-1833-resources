@@ -1,0 +1,28 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "2TI",
+  "chapter_count": 4,
+  "verse_count": 83,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "98851b1e47ff7b871c9a667f0af850bbd827e7a7ec8791bc02a8b1ea4dc5fc45"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "8169c7f213a2a2570e70fac9c303bc96f86d3afa37f0356e6f7dc779672ef0b8"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "sha256": "6022e8b28edc5ad13ee61e147adbf87dd957e5eb5d6773d5114452b0db15c4d0"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "sha256": "2efff5a37d37ced4991bea80034f31d9bd3fb99a811de53f981f887655dab56c"
+    }
+  ]
+}

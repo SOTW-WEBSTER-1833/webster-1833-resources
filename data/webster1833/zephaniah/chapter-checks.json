@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "ZEP",
+  "chapter_count": 3,
+  "verse_count": 53,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "1789bd61e4ee17d2aa01c06d505bf77a48b347c6f3e5928f817497271a9d4040"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "169cd1502bcc099cb844fc219fad72dd4be8785096c289d222f622f0dc8d47a1"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 20,
+      "sha256": "2c571997126d76989592724e26347b77c042edade3358c0bca3cf637b6a83f77"
+    }
+  ]
+}

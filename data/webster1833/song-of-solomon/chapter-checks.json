@@ -1,0 +1,48 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "SNG",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "d446a933e55ba862c7f5e7db93f7e253fc8a0a531955419496020b23e5b1f3ce"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "e00c2f295fe8fe151feeea70bf95ae8b1029b29ed36c3d5ff76fdf6071c31e11"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 11,
+      "sha256": "a7e19bd0d28d7dad87e7d091fe015f9fda0226ac9fd35459e5e876c2e69bb509"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "b6be02f6363341c9cf3dbd647b545732efab8903b622e13674407254817479b9"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 16,
+      "sha256": "7c334f059871bc13321fe6bfd4520a71738c57ab53714978f28daf77baedd991"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 13,
+      "sha256": "caa869e03b28e5a7bd4e864a7da323b1160969c99e7c9444bac0c38da0f3690d"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 13,
+      "sha256": "89e09ed4c029850fc1fe8cc2509e35713315190c1fc33e210a34dcca78d83cb2"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "sha256": "f5a173556ad1a2eafee1602a5a30063e6aac0c3774c7fe84166341a8582b3dc0"
+    }
+  ]
+}

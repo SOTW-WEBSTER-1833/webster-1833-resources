@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "TIT",
+  "chapter_count": 3,
+  "verse_count": 46,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "sha256": "d16bfbde0733e68186c9ddd24c23be13c3f9179253948b48da51c137a82fdb19"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "2f258400ab70d3ac080161e0efed47ea55fbae87b31417364c07b72e4ec5705f"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "566ef4af2937a5bf45381e0b279ea93c474a88635a54b7c8d90624228310311d"
+    }
+  ]
+}

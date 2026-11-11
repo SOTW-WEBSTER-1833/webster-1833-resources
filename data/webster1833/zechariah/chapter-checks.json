@@ -1,0 +1,78 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "ZEC",
+  "chapter_count": 14,
+  "verse_count": 211,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 21,
+      "sha256": "7b0454ff76238cf3896c0ef78dc67abc703cdf34be2d89d08eaddcc24880175a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "sha256": "8ad14fc373e8c784c54ad67c2c6d4a41a8f50a21469db342b9153565efc5ef7a"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 10,
+      "sha256": "38609fb6656cbddeb6d602c0039d279754d5d382b3a8c91a302253e08db5f34f"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 14,
+      "sha256": "e7e8ce048c6c43154a2ec77f002aa7dcf4c718366a8edfca62dab6a6b06c024c"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 11,
+      "sha256": "1718dcc79a4502386817abf96672e82cd4e131ba23f183eddfa90766d3aa5d54"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 15,
+      "sha256": "6cb243703fd64489a697080be0ffbcbb0d152c51238a70225814651a18458333"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 14,
+      "sha256": "b0210e655c0ac0d73a5d9d66f2ffa6cd62d26336a07f6a95ed2508b848f24e09"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 23,
+      "sha256": "b08a889c571726e273ba5e3cef594a8c4e678003bae1942434945314df5cf65d"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 17,
+      "sha256": "da77ec8ce04548a2500d8cbedf1cd86ed933fae60a8cb0807eea278797c085fd"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 12,
+      "sha256": "20baaa837790b9b6947215f978ed084866713c67b2e7ef03c254d9e48e4c02a9"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 17,
+      "sha256": "1032ac690507fdd696d3ee84a6efc00d35d0b59798520aa60ff553a6bdc7a438"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 14,
+      "sha256": "acdfbfefef113edf635013bcf832dd096f5f579540639e2e5110fa0232ce1da0"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 9,
+      "sha256": "5b36386359a66e47b965389e4a318861766d875eda86e4feb46d5d1bc7dddf63"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 21,
+      "sha256": "641e6bfd336d796d088cb68082d26a81145117c413dba560a9cb40dad7c72ac5"
+    }
+  ]
+}
