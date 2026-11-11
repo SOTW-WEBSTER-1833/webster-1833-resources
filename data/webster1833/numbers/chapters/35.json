@@ -1,0 +1,628 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "NUM",
+  "chapter": 35,
+  "verses": [
+    {
+      "id": "NUM.35.1",
+      "edition_verse_id": "WEBSTER1833:NUM.35.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And the LORD spoke to Moses in the plains of Moab by Jordan ",
+          "kind": "text"
+        },
+        {
+          "text": "near",
+          "kind": "supplied"
+        },
+        {
+          "text": " Jericho, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "NUM.35.2",
+      "edition_verse_id": "WEBSTER1833:NUM.35.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Command the children of Israel, that they give to the Levites of the inheritance of their possession cities to dwell in; and ye shall give ",
+          "kind": "text"
+        },
+        {
+          "text": "also",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the Levites suburbs for the cities around them.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.3",
+      "edition_verse_id": "WEBSTER1833:NUM.35.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And they shall have the cities to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.4",
+      "edition_verse_id": "WEBSTER1833:NUM.35.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the suburbs of the cities which ye shall give to the Levites, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall reach",
+          "kind": "supplied"
+        },
+        {
+          "text": " from the wall of the city and outward a thousand cubits on all sides.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.5",
+      "edition_verse_id": "WEBSTER1833:NUM.35.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " in the midst: this shall be to them the suburbs of the cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.6",
+      "edition_verse_id": "WEBSTER1833:NUM.35.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And among the cities which ye shall give to the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " six cities for refuge, which ye shall appoint for the man-slayer, that he may flee thither: and to them ye shall add forty and two cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.7",
+      "edition_verse_id": "WEBSTER1833:NUM.35.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "So",
+          "kind": "supplied"
+        },
+        {
+          "text": " all the cities which ye shall give to the Levites ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and eight cities: them ",
+          "kind": "text"
+        },
+        {
+          "text": "shall ye give",
+          "kind": "supplied"
+        },
+        {
+          "text": " with their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.8",
+      "edition_verse_id": "WEBSTER1833:NUM.35.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the cities which ye shall give ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the possession of the children of Israel: from ",
+          "kind": "text"
+        },
+        {
+          "text": "them that have",
+          "kind": "supplied"
+        },
+        {
+          "text": " many ye shall give many; but from ",
+          "kind": "text"
+        },
+        {
+          "text": "them that have",
+          "kind": "supplied"
+        },
+        {
+          "text": " few ye shall give few: every one shall give of his cities to the Levites according to his inheritance which he inheriteth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.9",
+      "edition_verse_id": "WEBSTER1833:NUM.35.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the LORD spoke to Moses, saying,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.10",
+      "edition_verse_id": "WEBSTER1833:NUM.35.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Speak to the children of Israel, and say to them, When ye have passed over Jordan into the land of Canaan;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.11",
+      "edition_verse_id": "WEBSTER1833:NUM.35.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then ye shall appoint for you cities to be cities of refuge for you; that the slayer may flee thither, who killeth any person at unawares.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.12",
+      "edition_verse_id": "WEBSTER1833:NUM.35.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they shall be to you cities for refuge from the avenger; that the man-slayer may not die, until he stands before the congregation in judgment.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.13",
+      "edition_verse_id": "WEBSTER1833:NUM.35.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "And of these cities which ye shall give, six cities shall ye have for refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.14",
+      "edition_verse_id": "WEBSTER1833:NUM.35.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Ye shall give three cities on this side of Jordan, and three cities shall ye give in the land of Canaan, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be cities of refuge.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.15",
+      "edition_verse_id": "WEBSTER1833:NUM.35.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "These six cities shall be a refuge, ",
+          "kind": "text"
+        },
+        {
+          "text": "both",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.16",
+      "edition_verse_id": "WEBSTER1833:NUM.35.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if he shall smite him with an instrument of iron, so that he shall die, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a murderer: the murderer shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.17",
+      "edition_verse_id": "WEBSTER1833:NUM.35.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And if he shall smite him by throwing a stone, by which he may die, and he shall die, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a murderer: the murderer shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.18",
+      "edition_verse_id": "WEBSTER1833:NUM.35.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Or ",
+          "kind": "text"
+        },
+        {
+          "text": "if",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall smite him with a hand-weapon of wood, with which he may die, and he shall die, he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a murderer: the murderer shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.19",
+      "edition_verse_id": "WEBSTER1833:NUM.35.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "The avenger of blood himself shall slay the murderer: when he meeteth him, he shall slay him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.20",
+      "edition_verse_id": "WEBSTER1833:NUM.35.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "But if he shall thrust him of hatred, or hurl at him by laying in wait, that he die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.21",
+      "edition_verse_id": "WEBSTER1833:NUM.35.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Or in enmity shall smite him with his hand, that he die: he that smote ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall surely be put to death; ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " he ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " a murderer: the avenger of blood shall slay the murderer, when he meeteth him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.22",
+      "edition_verse_id": "WEBSTER1833:NUM.35.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "But if he shall thrust him suddenly without enmity, or shall have cast upon him any thing without laying in wait,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.23",
+      "edition_verse_id": "WEBSTER1833:NUM.35.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Or with any stone, by which a man may die, seeing ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " not, and shall cast ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon him, that he die, and ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " not his enemy, neither sought his harm:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.24",
+      "edition_verse_id": "WEBSTER1833:NUM.35.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Then the congregation shall judge between the slayer and the avenger of blood according to these judgments:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.25",
+      "edition_verse_id": "WEBSTER1833:NUM.35.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And the congregation shall deliver the slayer out of the hand of the avenger of blood, and the congregation shall restore him to the city of his refuge, whither he had fled: and he shall abide in it to the death of the high priest, who was anointed with the holy oil.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.26",
+      "edition_verse_id": "WEBSTER1833:NUM.35.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "But if the slayer shall at any time come without the border of the city of his refuge, whither he had fled;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.27",
+      "edition_verse_id": "WEBSTER1833:NUM.35.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And the avenger of blood find him without the borders of the city of his refuge, and the avenger of blood shall kill the slayer; he shall not be guilty of blood:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.28",
+      "edition_verse_id": "WEBSTER1833:NUM.35.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.29",
+      "edition_verse_id": "WEBSTER1833:NUM.35.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "So these ",
+          "kind": "text"
+        },
+        {
+          "text": "things",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall be for a statute of judgment to you throughout your generations in all your dwellings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.30",
+      "edition_verse_id": "WEBSTER1833:NUM.35.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Whoever killeth any person, the murderer shall be put to death by the mouth of witnesses: but one witness shall not testify against any person ",
+          "kind": "text"
+        },
+        {
+          "text": "to cause him",
+          "kind": "supplied"
+        },
+        {
+          "text": " to die.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.31",
+      "edition_verse_id": "WEBSTER1833:NUM.35.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Moreover, ye shall take no satisfaction for the life of a murderer, who ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " guilty of death: but he shall be surely put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.32",
+      "edition_verse_id": "WEBSTER1833:NUM.35.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And ye shall take no satisfaction for him that hath fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.33",
+      "edition_verse_id": "WEBSTER1833:NUM.35.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "So ye shall not pollute the land in which ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": ": for blood it defileth the land: and the land cannot be cleansed of the blood that is shed in it, but by the blood of him that shed it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "NUM.35.34",
+      "edition_verse_id": "WEBSTER1833:NUM.35.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "Defile not therefore the land which ye shall inhabit, in which I dwell: for I the LORD dwell among the children of Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

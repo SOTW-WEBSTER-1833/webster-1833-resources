@@ -1,0 +1,13 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "PHM",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "sha256": "3181794391184691583c8d5e93bd7e4eb3798c512a0813ce43374f149be680b7"
+    }
+  ]
+}

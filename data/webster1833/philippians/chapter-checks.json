@@ -1,0 +1,28 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "PHP",
+  "chapter_count": 4,
+  "verse_count": 104,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 30,
+      "sha256": "f7f24e4e72fa93234455294ffe77bad51f81d7a8003c089dd31fa9b565b88d5a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 30,
+      "sha256": "38f89692effe07f761a43e61af5c88c9330d681f39257ff6840547c38469c7d2"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "sha256": "832606cd4001021db63fbfa063ccb65339ed98d119c9c42451f5d00256a71cc7"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 23,
+      "sha256": "af4b3402bbd679f9841244fff6f1fddc5a03d0d50d50f8479e73f6c60bed5f91"
+    }
+  ]
+}
