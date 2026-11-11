@@ -1,0 +1,460 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "1PE",
+  "chapter": 2,
+  "verses": [
+    {
+      "id": "1PE.2.1",
+      "edition_verse_id": "WEBSTER1833:1PE.2.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Wherefore, laying aside all malice, and all guile, and hypocrisies, and envies, and all evil-speakings,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "1PE.2.2",
+      "edition_verse_id": "WEBSTER1833:1PE.2.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As new-born babes, desire the pure milk of the word, that ye may grow thereby:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.3",
+      "edition_verse_id": "WEBSTER1833:1PE.2.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If indeed ye have tasted that the Lord ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " gracious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.4",
+      "edition_verse_id": "WEBSTER1833:1PE.2.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "To whom coming ",
+          "kind": "text"
+        },
+        {
+          "text": "as to",
+          "kind": "supplied"
+        },
+        {
+          "text": " a living stone, disallowed indeed by men, but chosen by God, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " precious,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.5",
+      "edition_verse_id": "WEBSTER1833:1PE.2.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Ye also, as living stones, are built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices, acceptable to God by Jesus Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.6",
+      "edition_verse_id": "WEBSTER1833:1PE.2.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner-stone, elect, precious: and he that believeth on him shall not be confounded.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.7",
+      "edition_verse_id": "WEBSTER1833:1PE.2.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "To you therefore who believe ",
+          "kind": "text"
+        },
+        {
+          "text": "he is",
+          "kind": "supplied"
+        },
+        {
+          "text": " precious: but to them who are disobedient, the stone which the builders disallowed, the same is made the head of the corner,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.8",
+      "edition_verse_id": "WEBSTER1833:1PE.2.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And a stone of stumbling, and a rock of offense, ",
+          "kind": "text"
+        },
+        {
+          "text": "even to them",
+          "kind": "supplied"
+        },
+        {
+          "text": " who stumble at the word, being disobedient: to which also they were appointed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.9",
+      "edition_verse_id": "WEBSTER1833:1PE.2.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "But ye ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " a chosen generation, a royal priesthood, a holy nation, a peculiar people; that ye should show forth the praises of him who hath called you out of darkness into his marvelous light:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.10",
+      "edition_verse_id": "WEBSTER1833:1PE.2.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Who in time past ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " not a people, but ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " now the people of God: who had not obtained mercy, but now have obtained mercy.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.11",
+      "edition_verse_id": "WEBSTER1833:1PE.2.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Dearly beloved, I beseech ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": " as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.12",
+      "edition_verse_id": "WEBSTER1833:1PE.2.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Having your manner of life honest among the Gentiles: that, whereas they speak against you as evil-doers, they may by ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " good works, which they shall behold, glorify God in the day of visitation.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.13",
+      "edition_verse_id": "WEBSTER1833:1PE.2.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Submit yourselves to every ordinance of man for the Lord's sake: whether to the king, as supreme;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.14",
+      "edition_verse_id": "WEBSTER1833:1PE.2.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "Or to governors, as to them that are sent by him for the punishment of evil-doers, and for the praise of them that do well.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.15",
+      "edition_verse_id": "WEBSTER1833:1PE.2.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "For so is the will of God, that with well-doing ye may put to silence the ignorance of foolish men:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.16",
+      "edition_verse_id": "WEBSTER1833:1PE.2.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "As free, and not using ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " liberty for a cloke of maliciousness, but as the servants of God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.17",
+      "edition_verse_id": "WEBSTER1833:1PE.2.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Honor all ",
+          "kind": "text"
+        },
+        {
+          "text": "men",
+          "kind": "supplied"
+        },
+        {
+          "text": ". Love the brotherhood. Fear God. Honor the king.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.18",
+      "edition_verse_id": "WEBSTER1833:1PE.2.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Servants, ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " subject to ",
+          "kind": "text"
+        },
+        {
+          "text": "your",
+          "kind": "supplied"
+        },
+        {
+          "text": " masters with all fear; not only to the good and gentle, but also to the froward.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.19",
+      "edition_verse_id": "WEBSTER1833:1PE.2.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "For this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " thank-worthy, if a man for conscience towards God endureth grief, suffering wrongfully.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.20",
+      "edition_verse_id": "WEBSTER1833:1PE.2.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "For what glory ",
+          "kind": "text"
+        },
+        {
+          "text": "is it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", if, when ye are buffeted for your faults, ye bear it patiently? but if, when ye do well, and suffer ",
+          "kind": "text"
+        },
+        {
+          "text": "for it",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ye bear it patiently, this ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " acceptable with God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.21",
+      "edition_verse_id": "WEBSTER1833:1PE.2.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For even to this were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.22",
+      "edition_verse_id": "WEBSTER1833:1PE.2.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Who committed no sin, neither was guile found in his mouth:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.23",
+      "edition_verse_id": "WEBSTER1833:1PE.2.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "Who, when he was reviled, reviled not again; when he suffered, he threatened not; but committed ",
+          "kind": "text"
+        },
+        {
+          "text": "himself",
+          "kind": "supplied"
+        },
+        {
+          "text": " to him that judgeth righteously:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.24",
+      "edition_verse_id": "WEBSTER1833:1PE.2.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Who himself bore our sins in his own body on the tree, that we, being dead to sins, should live to righteousness; by whose stripes ye were healed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "1PE.2.25",
+      "edition_verse_id": "WEBSTER1833:1PE.2.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "For ye were as sheep going astray; but are now returned to the Shepherd and Bishop of your souls.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

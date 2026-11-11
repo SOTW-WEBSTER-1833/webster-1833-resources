@@ -1,0 +1,33 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "1PE",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "sha256": "8612568c1def0fcf9f89e414faa53b4ecd1d5587ea02eb45be13c2f373ad15fc"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 25,
+      "sha256": "ffba03ee20fdbf087e875cb2e2324d8571c2384165325b23032cd973fa08d92c"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "sha256": "8be1399eefc79fb00a50dca2d91e82b8f028f2eb40485331930792000c2eda97"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 19,
+      "sha256": "2c42089d7dbff21d580c4ebeb9b80eeda07b455043d14dec6b60367fa4f62146"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "sha256": "b161007d36120806697da053f94ed8d86ddce53a068c4ce8b12bcab2b29218ad"
+    }
+  ]
+}

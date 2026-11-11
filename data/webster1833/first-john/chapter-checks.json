@@ -1,0 +1,33 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "1JN",
+  "chapter_count": 5,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 10,
+      "sha256": "5d8ef6a4c70b775a46e4a23831c02cba8f966f699926cd4dc650c2fceaee02a2"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 29,
+      "sha256": "caa5f72aa427e69a98a9d04cad058e46b51b6ee9c137f8bf3da91be9c0f48b3b"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 24,
+      "sha256": "473632420c0e9e9fa28349f934cb41a9b76c4f942a26580ad45f5d0fe6c82914"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 21,
+      "sha256": "276b991db2f865ae0d8021ca256c1aad1af8fbc5ba75997d78e7312114a5b8f2"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 21,
+      "sha256": "2a1d4eb0cf3310cfb1ecc9cb85aa13b6eccc283918e1d39f8595dea383e5d9c0"
+    }
+  ]
+}
