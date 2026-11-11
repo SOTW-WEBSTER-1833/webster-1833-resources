@@ -1,0 +1,38 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "GAL",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 24,
+      "sha256": "57bdb51a77b627db104385a1f346cf728a3d4b534194d4577c7ae4a6c6bde216"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 21,
+      "sha256": "6691e17e9573a8763f1d6c242e664e5ac426dc23e1094529f07918c48e8cb46f"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 29,
+      "sha256": "96b9f04599fc21736cfe1b7da72d93e53b23fb7efdf09e657d68b68592e1e61c"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 31,
+      "sha256": "34616a73cac27b4b315b08d4cf4979d8e68c4d3fa37f95fa958c6ea2f5eba23c"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 26,
+      "sha256": "c8d32e7712c48fb874f3500c0bea57c2416ff9438035de6e989c5b2461a4b0be"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 18,
+      "sha256": "fb509317d781a1d3620ea53caa195cc554905f4829717baed734c3b144d0cf54"
+    }
+  ]
+}

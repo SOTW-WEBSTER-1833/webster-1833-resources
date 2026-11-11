@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "HAB",
+  "chapter": 1,
+  "verses": [
+    {
+      "id": "HAB.1.1",
+      "edition_verse_id": "WEBSTER1833:HAB.1.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "The burden which Habakkuk the prophet saw.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "HAB.1.2",
+      "edition_verse_id": "WEBSTER1833:HAB.1.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "O LORD, how long shall I cry, and thou wilt not hear! ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " cry out to thee ",
+          "kind": "text"
+        },
+        {
+          "text": "of",
+          "kind": "supplied"
+        },
+        {
+          "text": " violence, and thou wilt not save!",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.3",
+      "edition_verse_id": "WEBSTER1833:HAB.1.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Why dost thou show me iniquity, and cause ",
+          "kind": "text"
+        },
+        {
+          "text": "me",
+          "kind": "supplied"
+        },
+        {
+          "text": " to behold grievance? for devastation and violence ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " before me: and there are ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " raise strife and contention.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.4",
+      "edition_verse_id": "WEBSTER1833:HAB.1.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Therefore the law is slackened, and judgment doth never go forth: for the wicked doth encompass the righteous; therefore wrong judgment proceedeth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.5",
+      "edition_verse_id": "WEBSTER1833:HAB.1.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Behold ye among the heathen, and regard, and wonder marvelously: for ",
+          "kind": "text"
+        },
+        {
+          "text": "I",
+          "kind": "supplied"
+        },
+        {
+          "text": " will work a work in your days, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " ye will not believe though it be told ",
+          "kind": "text"
+        },
+        {
+          "text": "you",
+          "kind": "supplied"
+        },
+        {
+          "text": ".",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.6",
+      "edition_verse_id": "WEBSTER1833:HAB.1.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "For lo, I raise up the Chaldeans, ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " bitter and hasty nation, which shall march through the breadth of the land, to possess the dwelling-places ",
+          "kind": "text"
+        },
+        {
+          "text": "that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " not theirs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.7",
+      "edition_verse_id": "WEBSTER1833:HAB.1.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "They ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " terrible and dreadful: their judgment and their dignity shall proceed from themselves.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.8",
+      "edition_verse_id": "WEBSTER1833:HAB.1.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Their horses also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " hasteth to eat.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.9",
+      "edition_verse_id": "WEBSTER1833:HAB.1.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "They shall come all for violence: their faces shall sup up ",
+          "kind": "text"
+        },
+        {
+          "text": "as",
+          "kind": "supplied"
+        },
+        {
+          "text": " the east wind, and they shall gather the captivity as the sand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.10",
+      "edition_verse_id": "WEBSTER1833:HAB.1.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And they shall scoff at the kings, and the princes shall be a scorn to them: they shall deride every strong hold; for they shall heap dust, and take it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.11",
+      "edition_verse_id": "WEBSTER1833:HAB.1.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then shall ",
+          "kind": "text"
+        },
+        {
+          "text": "his",
+          "kind": "supplied"
+        },
+        {
+          "text": " mind change, and he shall pass over, and offend, ",
+          "kind": "text"
+        },
+        {
+          "text": "imputing",
+          "kind": "supplied"
+        },
+        {
+          "text": " this his power to his god.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.12",
+      "edition_verse_id": "WEBSTER1833:HAB.1.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "Art",
+          "kind": "supplied"
+        },
+        {
+          "text": " thou not from everlasting, O LORD my God, my Holy One? We shall not die. O LORD, thou hast ordained them for judgment; and O mighty God, thou hast established them for correction.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.13",
+      "edition_verse_id": "WEBSTER1833:HAB.1.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thou art",
+          "kind": "supplied"
+        },
+        {
+          "text": " of purer eyes than to behold evil, and canst not look on iniquity: why lookest thou on them that deal treacherously, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " keepest silence when the wicked devoureth ",
+          "kind": "text"
+        },
+        {
+          "text": "the man that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " more righteous than he?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.14",
+      "edition_verse_id": "WEBSTER1833:HAB.1.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And makest men as the fishes of the sea, as the creeping animals ",
+          "kind": "text"
+        },
+        {
+          "text": "that have",
+          "kind": "supplied"
+        },
+        {
+          "text": " no ruler over them?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.15",
+      "edition_verse_id": "WEBSTER1833:HAB.1.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.16",
+      "edition_verse_id": "WEBSTER1833:HAB.1.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "Therefore they sacrifice to their net, and burn incense to their drag; because by them their portion ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " fat, and their food plenteous.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "HAB.1.17",
+      "edition_verse_id": "WEBSTER1833:HAB.1.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Shall they therefore empty their net, and not spare continually to slay the nations?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

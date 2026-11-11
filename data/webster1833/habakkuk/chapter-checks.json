@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "HAB",
+  "chapter_count": 3,
+  "verse_count": 56,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "e42e26626e39c02a2de4c80a4261e6630ff479fa20dd4e685ddb9fdce741550b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "2f314fe56134208bf966e2b33e20019bc61bbbda69a46c33bde8ef0d3ea41683"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "sha256": "9284c092d727f3c8cfc91a07e4284fda1bd812145469f089f077eb7c5b9d601b"
+    }
+  ]
+}

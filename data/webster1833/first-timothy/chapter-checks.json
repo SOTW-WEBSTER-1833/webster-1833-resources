@@ -1,0 +1,38 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "1TI",
+  "chapter_count": 6,
+  "verse_count": 113,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "sha256": "809bd446d5be6c872b24c411658b849096593fa87b9e8b8b904bfddc0f2ecfbe"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 15,
+      "sha256": "638f012a45985c60bb05982b9fa2d333b71e737644b59adb48b78325c16810b9"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 16,
+      "sha256": "4cf133eff8376f49f5415c07737030872f1f7439716cde3cb162e3bf5178062a"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "e701c838250cc6fd857055ff73376e8db4ea3abf8919cd9e0a315a46b382f339"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 25,
+      "sha256": "fcce5dee242616ddddbfeb9a45565a6b2e286677a25693667aea58a88494d173"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 21,
+      "sha256": "362bbc313bfed591963fda88077eac44b7c2d61c44f5288f5c49533a9ceda77b"
+    }
+  ]
+}

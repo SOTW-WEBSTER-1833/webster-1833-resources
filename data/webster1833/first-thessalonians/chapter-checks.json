@@ -1,0 +1,33 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "1TH",
+  "chapter_count": 5,
+  "verse_count": 89,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 10,
+      "sha256": "a9aaeb1c79082ec4e1c844c400ce57791d17eb9b02eb88af329aa7ae1a63c23b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "cdd81a91f41ff2845bcafbf910791b554215f771b5e7b8ff3deff41a483af0b4"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 13,
+      "sha256": "f3294011d02dee0f6b4ce75d60bdf6fa8db1e3717d7492bcebdd11de96b80084"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "e50b232030bf00bd1e73deccbc9cfb550039fbe1c407fcd20ab03f89982c1d58"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 28,
+      "sha256": "994bea6e84b873188096be350aec8b5dd29ece8de319075938148b5ebeefdd3f"
+    }
+  ]
+}
