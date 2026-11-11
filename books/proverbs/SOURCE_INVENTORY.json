@@ -1,0 +1,17 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "PRO",
+  "original_archive": "engwebster_usfm.zip",
+  "archive_sha256": "0f3c1122422adba66cf1e0c98e11db117beebbe40994d2d8afb5e80cc84942cf",
+  "usfm_filename": "21-PROengwebster.usfm",
+  "usfm_sha256": "41109a91b0c6eaa11b27a8ef44ad758e1a24b53962fe71d73b93f8b1f02a4a38",
+  "source_url": "https://ebible.org/engwebster",
+  "upstream_download": "https://ebible.org/Scriptures/engwebster_usfm.zip",
+  "source_edition": "Noah Webster Bible, 1833; eBible engwebster USFM data",
+  "acquisition": "owner-provided vetted USFM archive; installed data derived from bytes of this archive",
+  "source_archive_preserved_outside_public_repository": true,
+  "source_usfm_contains_strongs_annotations": false,
+  "published_chapter_json_contains_strongs": false,
+  "historical_scans_included": false,
+  "rights_summary": "Public Domain per archived copr.htm"
+}
