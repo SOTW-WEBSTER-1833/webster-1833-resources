@@ -1,0 +1,58 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "EZR",
+  "chapter_count": 10,
+  "verse_count": 280,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 11,
+      "sha256": "1d3bf345443b4063770456828f8ba1c0d4683ebbd7033d4661cc2c3d7ce3246b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 70,
+      "sha256": "a29242bdb7b705a9579be37cf44a4784decaf193ca585ff9dc2c1a3b29da62d8"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 13,
+      "sha256": "116390ebf4454f8258d5b5c62517170e5d34502e85c8589d1c5d44aaf6b6e8b8"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 24,
+      "sha256": "ae7a77bea5f1135b21648b30bd1691c27cca7234858c082e236345a153d17079"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 17,
+      "sha256": "12043b37c10dd78eb9ad455f99a24d385127530e3c538101d3b7ced20dc63ec9"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 22,
+      "sha256": "93c800ed16fbc3701499ad2e5ae160d49e7abbea9282a9270fa2091e31ab004e"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 28,
+      "sha256": "771da9f7d8bcc2bd10b8cb8c9deeefb6c32a0105ef41c35d217f29ab2007236a"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 36,
+      "sha256": "4571b5757d9bc5442c36e5dae2ab279ffbf68cf844707dccb5493479e7191175"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "1fe0ea476da2e283d1f2c71697225334d5086dc87c0509eb847601d2a4c2decc"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 44,
+      "sha256": "e584158b5b91a5f821cf4e812302706c5bf3d4ee097e45a5fec206b956c3fd35"
+    }
+  ]
+}
