@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 70,
+  "verses": [
+    {
+      "id": "PSA.70.1",
+      "edition_verse_id": "WEBSTER1833:PSA.70.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "To the chief Musician, ",
+          "kind": "text"
+        },
+        {
+          "text": "A Psalm",
+          "kind": "supplied"
+        },
+        {
+          "text": " of David to bring to remembrance. ",
+          "kind": "text"
+        },
+        {
+          "text": "Make haste",
+          "kind": "supplied"
+        },
+        {
+          "text": ", O God, to deliver me; make haste to help me, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.70.2",
+      "edition_verse_id": "WEBSTER1833:PSA.70.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.3",
+      "edition_verse_id": "WEBSTER1833:PSA.70.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.4",
+      "edition_verse_id": "WEBSTER1833:PSA.70.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.70.5",
+      "edition_verse_id": "WEBSTER1833:PSA.70.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "But I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " poor and needy: make haste to me, O God: thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my help and my deliverer; O LORD, make no delay.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

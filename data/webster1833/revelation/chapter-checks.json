@@ -1,0 +1,118 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "REV",
+  "chapter_count": 22,
+  "verse_count": 404,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "sha256": "5b18ef5c7b0d6d4bec34c387be032461f2241024e7de57b4e456748247917b86"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 29,
+      "sha256": "ad92dd40decab5a1bf10844179503bdea75016c3c34db723162db7bf348a1e46"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "sha256": "955adffa73bff96a52329a601149edd7a5085a0905234f10dd1e2c0cbf74850f"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 11,
+      "sha256": "a203f2d516d41c5f5da3af1e7e18713e820cd53317fcbd42199d3870c8b64882"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "sha256": "06171b9eb72fb880531f20173113ecee775777c4f6af2ab7b70a470706559040"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 17,
+      "sha256": "e3602f8aafdef24cbff0bb9613ca4c3281be564ee3a561c3597882a6c359aab8"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "sha256": "5a0032f6bcda087f1b6518ce76fe80b4407ebdb3d2c9cf2685eb74f65473763e"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 13,
+      "sha256": "d2d6142ce14a45966e0b53786be7ef5405763c8945670ebcdc710324fe715f36"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 21,
+      "sha256": "9ecd69eb63aef58512f2b60798851257a104ddd7e76be4266afa93e240e92ee7"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 11,
+      "sha256": "5979dff8d941c2c3bdb5feb912d6bc0bbd487e9c5befe44d5d641909d90a3da3"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 19,
+      "sha256": "48195d82a03912a2b57dbd53ec9a178466c46817e5149637be8136f5223476cd"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 17,
+      "sha256": "76211813caeaa3e3f193a3b5088330a512cecb0577a97eb5950ee5a77a63dca8"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 18,
+      "sha256": "da9baa119d9a50d197339368e32e43d63d53bca1300acb14554fd7e646780e73"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 20,
+      "sha256": "4a48f6bde1393955c76a757498418549fee62cb9ce82c858d2bcbaa503619a78"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 8,
+      "sha256": "20e64ef967720e6b946e8cdae91474ebb97bfc1c2cd821ae48179ca0eb9dc6e2"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 21,
+      "sha256": "4b6e0350112d326e77ab47d087cdd682b1927b56952bd46f106e65c70708d45c"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 18,
+      "sha256": "a2bb2219e6170deaa292efe1e99e2f2e7e81a84550f8473478a5629d4bd7e4ce"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 24,
+      "sha256": "add63e26675648be2f77b44d77b4d606856a25d98aa6805b738817c1bc55f534"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 21,
+      "sha256": "05624dbaf444a27ae35b5198ab5aae399d400f9689a25da5b84ee4b4fb6cf6d6"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 15,
+      "sha256": "59802a4a647d68a3726cec86be1de6a405b3988df63ce277f1d0293ab97cad54"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 27,
+      "sha256": "2680f45dd9e046298551e0e7d895de31983911f6fde3e9239ee53b6606e9c321"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 21,
+      "sha256": "a5301db60f3bd85de4fbc41cdc3b5ad3354724345ab3f92851e0c97b618b9393"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "ROM",
+  "chapter_count": 16,
+  "verse_count": 433,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 32,
+      "sha256": "fc0a12737a57b1018a3ade1abd8b0b29a9f541f591aa68e2815628c00c30d92a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 29,
+      "sha256": "54df702bee112688027d733e8aede4be50f7bae803477470d193771c3df02a84"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 31,
+      "sha256": "5dfe6a0b185e35f3062f76b6a448f16edde9299627bf1db04a470b0d62abcaaa"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 25,
+      "sha256": "ce825d03098601cf347e1c67628a0b4044c6549325f49f9bc6fc0b56a93cc6cc"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 21,
+      "sha256": "c9e7c78296c90a2b64ef4ea96a62017c16620a6473aa7017e7a3735ba0d6ebc9"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 23,
+      "sha256": "138fdd07b6a858af2d92f60d8e3c91481e2a1ab71190648fd8678d18ae188679"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 25,
+      "sha256": "4c83bf908ea0c216b5cadd7b2835bb80d7d7972c5dd217f9d21374ce369d28b1"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 39,
+      "sha256": "6a9e5a5ebb20e86438abdb2f12b5591832007cc5e1a6b65c251715b56b1ce709"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 33,
+      "sha256": "abd2077311da37e67a571f93fc98ff816dd0c8b59a150d127df8e38d2c2ba0d9"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 21,
+      "sha256": "89194e19acbf68c3fddd8cc64a8888784246c1f56e305a0c53d8e89e47c47651"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 36,
+      "sha256": "57405320cd95e0f9c0be45ca550af9017e1c1624f4ba1d22bea7534973e83336"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 21,
+      "sha256": "628dbdab754cc26a0037f8090bc2c41bef68e4559deaa76c44e6f885beba06b5"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 14,
+      "sha256": "68fc6358fa7d5e1e40ed733cfe21f205404123c5fbb5fb2dd4d2a48fcf9aa986"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 23,
+      "sha256": "7e8f133f4ec6a0839740a9c86ac97a5fa381d1586f50a06e965287c9945dfcf9"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 33,
+      "sha256": "baa0e9e566c9a6ae0a8a6a333ef72c742b6bd0577bb2b7013382fff44f90465e"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 27,
+      "sha256": "2fa7517c3842fd3c778d6fc091375295f1de7f0f62d2b8362a4dc6062d4b8b77"
+    }
+  ]
+}

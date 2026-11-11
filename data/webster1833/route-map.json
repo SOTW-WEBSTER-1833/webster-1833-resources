@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "canonical_id_pattern": "{BOOK}.{CHAPTER}.{VERSE}",
+  "edition_verse_id_pattern": "WEBSTER1833:{BOOK}.{CHAPTER}.{VERSE}",
+  "book_catalog_path": "data/webster1833/catalog-{slug}.json",
+  "chapter_text_path": "data/webster1833/{slug}/chapters/{chapter:02d}.json",
+  "separate_original_language_resource": "SOTW-Original-Languages/original-language-resources and SOTW-Original-Languages-2/original-language-resources",
+  "language_resource_route_map": "study-data/v1/route-map.json",
+  "study_evidence_key_example": "verses[\"GEN.1.1\"].WEBSTER1833",
+  "note": "Edition-linked study data belongs to external original-language repositories. Logical future hook only; no English word offsets or links are asserted here.",
+  "historical_commentary_resource": "SOTW-Historical-Commentaries/historical-commentary-resources",
+  "commentary_join_id": "GEN.1.1",
+  "published_integration_status": "NOT_BUILT",
+  "facsimile_pages_available": false
+}
