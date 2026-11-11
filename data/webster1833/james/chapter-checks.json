@@ -1,0 +1,33 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "JAS",
+  "chapter_count": 5,
+  "verse_count": 108,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 27,
+      "sha256": "eb3524bb6c9ccf7f27427dc35a239bcc90d8decb9dbc2fde07a8979e863110b3"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "a7871ff85f659b20f4d211b4abcf855d2120991fca1a8dd7858ddde901446b7d"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "14c7813ab733c612a77dcb8e503dcd942b2c1724a6997f28cdbd43b3f972f908"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "sha256": "bbeba4f7fbf50e0c4c0e80ed57d4eef64ab1f169550016d5bf8b4158fc990260"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 20,
+      "sha256": "4145ca4de8e73b9716f0f59996c5505a52fb201224f899baa78c6dd2a42deee3"
+    }
+  ]
+}
