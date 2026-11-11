@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "EXO",
+  "book_name": "Exodus",
+  "book_order": 2,
+  "canonical_ids": "EXO.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:EXO.{chapter}.{verse}",
+  "chapter_count": 40,
+  "verse_count": 1213,
+  "traditional_verse_positions": 1213,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "exodus/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "GEN",
+  "successor_book_code": "LEV",
+  "source_provenance": "books/exodus/SOURCE_INVENTORY.json",
+  "reader": "books/exodus/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

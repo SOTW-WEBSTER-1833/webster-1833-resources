@@ -1,0 +1,28 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "COL",
+  "chapter_count": 4,
+  "verse_count": 95,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 29,
+      "sha256": "fbcadcb34c61f58edc3a84f8514d7f1d711c8b3b78860f46ca7969e42117e34c"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "sha256": "0e6daad9f6f94e9f277b0c9a01556373c474d68ebb429e4da27ee17c6706ec93"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 25,
+      "sha256": "2fff43c048fa8820d1d25b458b9d50eec46269479a4cfdfc4719f3b272b4c8a1"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 18,
+      "sha256": "98d32a481d3c6e3fd5d0dfc531ae3f63f72d8fe273b070b736cc4d8338b43588"
+    }
+  ]
+}

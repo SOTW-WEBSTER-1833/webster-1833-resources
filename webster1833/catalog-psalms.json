@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "book_name": "Psalms",
+  "book_order": 19,
+  "canonical_ids": "PSA.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:PSA.{chapter}.{verse}",
+  "chapter_count": 150,
+  "verse_count": 2461,
+  "traditional_verse_positions": 2461,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "psalms/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOB",
+  "successor_book_code": "PRO",
+  "source_provenance": "books/psalms/SOURCE_INVENTORY.json",
+  "reader": "books/psalms/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

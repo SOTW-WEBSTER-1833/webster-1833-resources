@@ -1,0 +1,68 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "DAN",
+  "chapter_count": 12,
+  "verse_count": 357,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 21,
+      "sha256": "b40b199a2f1cfdd10688dcaf90cca974453e7238ee5e2f82bf6fc7801d1e6429"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 49,
+      "sha256": "98bec197e5eba147b50730c77d00c4ee082635d190c889fff0ad118f747d7375"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 30,
+      "sha256": "7c89a0dcd269c0b9a1bac5831e4f16ddfb6be66b3e73abff7af50a16eb431831"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 37,
+      "sha256": "47c677b544f35f1c249e368eb5f398299b080efc57e7ffc9eb59840df6dfc153"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 31,
+      "sha256": "0d8341009368573b276a53b30c26bde82f1a3c710ef0e167bd32e61b4aba6509"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 28,
+      "sha256": "b32c74d20bd8830d123bc6d47edeb6a4ed0893b8001b9dd3f985113ddc6f4928"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 28,
+      "sha256": "a539bef404e24d3aa075a21d0cd0eeb2ebf3358035e856c12fe81ea6e8986249"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 27,
+      "sha256": "836be7807f2095240b78cb9ef64c914d6fa8a52dc438c17a1e72dc9af2eaefdc"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 27,
+      "sha256": "4b6d3e45363392cd94447392c4d4190738add78427c7aa48165e07cde1f2c3e3"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 21,
+      "sha256": "034db7ba7c39bc0b60b172867626f10c641a2fe74397b923d8593e793d31b74b"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 45,
+      "sha256": "0cfa4f7800062aba84584823a51bfa93670e1d06623d6bc748ff24fb81d15a5c"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 13,
+      "sha256": "7d58043aa96251a3a4847bfcd2b804727f8584fb2efcd056582d817ab4f90ac2"
+    }
+  ]
+}

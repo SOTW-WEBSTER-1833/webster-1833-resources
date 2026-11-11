@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "COL",
+  "book_name": "Colossians",
+  "book_order": 51,
+  "canonical_ids": "COL.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:COL.{chapter}.{verse}",
+  "chapter_count": 4,
+  "verse_count": 95,
+  "traditional_verse_positions": 95,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "colossians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "PHP",
+  "successor_book_code": "1TH",
+  "source_provenance": "books/colossians/SOURCE_INVENTORY.json",
+  "reader": "books/colossians/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

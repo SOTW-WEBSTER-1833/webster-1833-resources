@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "JOL",
+  "book_name": "Joel",
+  "book_order": 29,
+  "canonical_ids": "JOL.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:JOL.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "traditional_verse_positions": 73,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "joel/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "HOS",
+  "successor_book_code": "AMO",
+  "source_provenance": "books/joel/SOURCE_INVENTORY.json",
+  "reader": "books/joel/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

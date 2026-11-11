@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "MRK",
+  "book_name": "Mark",
+  "book_order": 41,
+  "canonical_ids": "MRK.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:MRK.{chapter}.{verse}",
+  "chapter_count": 16,
+  "verse_count": 678,
+  "traditional_verse_positions": 678,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "mark/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "MAT",
+  "successor_book_code": "LUK",
+  "source_provenance": "books/mark/SOURCE_INVENTORY.json",
+  "reader": "books/mark/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

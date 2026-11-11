@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "HOS",
+  "book_name": "Hosea",
+  "book_order": 28,
+  "canonical_ids": "HOS.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:HOS.{chapter}.{verse}",
+  "chapter_count": 14,
+  "verse_count": 197,
+  "traditional_verse_positions": 197,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "hosea/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "DAN",
+  "successor_book_code": "JOL",
+  "source_provenance": "books/hosea/SOURCE_INVENTORY.json",
+  "reader": "books/hosea/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

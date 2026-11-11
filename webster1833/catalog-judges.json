@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "JDG",
+  "book_name": "Judges",
+  "book_order": 7,
+  "canonical_ids": "JDG.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:JDG.{chapter}.{verse}",
+  "chapter_count": 21,
+  "verse_count": 618,
+  "traditional_verse_positions": 618,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "judges/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOS",
+  "successor_book_code": "RUT",
+  "source_provenance": "books/judges/SOURCE_INVENTORY.json",
+  "reader": "books/judges/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

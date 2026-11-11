@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "SNG",
+  "book_name": "Song of Solomon",
+  "book_order": 22,
+  "canonical_ids": "SNG.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:SNG.{chapter}.{verse}",
+  "chapter_count": 8,
+  "verse_count": 117,
+  "traditional_verse_positions": 117,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "song-of-solomon/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "ECC",
+  "successor_book_code": "ISA",
+  "source_provenance": "books/song-of-solomon/SOURCE_INVENTORY.json",
+  "reader": "books/song-of-solomon/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

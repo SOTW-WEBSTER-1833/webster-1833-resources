@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "ZEC",
+  "book_name": "Zechariah",
+  "book_order": 38,
+  "canonical_ids": "ZEC.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:ZEC.{chapter}.{verse}",
+  "chapter_count": 14,
+  "verse_count": 211,
+  "traditional_verse_positions": 211,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "zechariah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "HAG",
+  "successor_book_code": "MAL",
+  "source_provenance": "books/zechariah/SOURCE_INVENTORY.json",
+  "reader": "books/zechariah/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

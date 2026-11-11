@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "GAL",
+  "book_name": "Galatians",
+  "book_order": 48,
+  "canonical_ids": "GAL.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:GAL.{chapter}.{verse}",
+  "chapter_count": 6,
+  "verse_count": 149,
+  "traditional_verse_positions": 149,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "galatians/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "2CO",
+  "successor_book_code": "EPH",
+  "source_provenance": "books/galatians/SOURCE_INVENTORY.json",
+  "reader": "books/galatians/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

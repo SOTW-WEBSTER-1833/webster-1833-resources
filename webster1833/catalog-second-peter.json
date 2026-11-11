@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "2PE",
+  "book_name": "2 Peter",
+  "book_order": 61,
+  "canonical_ids": "2PE.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:2PE.{chapter}.{verse}",
+  "chapter_count": 3,
+  "verse_count": 61,
+  "traditional_verse_positions": 61,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "second-peter/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "1PE",
+  "successor_book_code": "1JN",
+  "source_provenance": "books/second-peter/SOURCE_INVENTORY.json",
+  "reader": "books/second-peter/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

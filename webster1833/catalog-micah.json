@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "MIC",
+  "book_name": "Micah",
+  "book_order": 33,
+  "canonical_ids": "MIC.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:MIC.{chapter}.{verse}",
+  "chapter_count": 7,
+  "verse_count": 105,
+  "traditional_verse_positions": 105,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "micah/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JON",
+  "successor_book_code": "NAM",
+  "source_provenance": "books/micah/SOURCE_INVENTORY.json",
+  "reader": "books/micah/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

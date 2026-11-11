@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "2JN",
+  "book_name": "2 John",
+  "book_order": 63,
+  "canonical_ids": "2JN.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:2JN.{chapter}.{verse}",
+  "chapter_count": 1,
+  "verse_count": 13,
+  "traditional_verse_positions": 13,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "second-john/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "1JN",
+  "successor_book_code": "3JN",
+  "source_provenance": "books/second-john/SOURCE_INVENTORY.json",
+  "reader": "books/second-john/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}
