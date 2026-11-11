@@ -1,0 +1,33 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "LAM",
+  "chapter_count": 5,
+  "verse_count": 154,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "sha256": "24568ca32fcb050c642349a14760cb2d555e80245ec4e5c15e1cecec3e24d425"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "sha256": "3d06f3a972204dc37dbf8bfae49df7702ad86ccb284bbd1226270c964f955987"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 66,
+      "sha256": "258a44e37e9a010ce00290d92c3d627563985a7efec21e5425ddae3f8561eec5"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 22,
+      "sha256": "5381b6e03311d6aca618818ac5d567876669541faafa91bb939491ae81c9e692"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 22,
+      "sha256": "1d863bd0c9e0c1b47bbcbb2dc021fef37d0796900722149f638297251fa6bcd8"
+    }
+  ]
+}

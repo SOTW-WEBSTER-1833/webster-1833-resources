@@ -1,0 +1,143 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "LEV",
+  "chapter_count": 27,
+  "verse_count": 859,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "4229249b48b2dcf3cbf8908b9e0afb441bdc072e65ad5f899c5044bcf1786aa8"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 16,
+      "sha256": "906a591e58a30db622c337dcac5fa1c567e3a2bef16b7cc7982a06feeca2102d"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 17,
+      "sha256": "09d3f959a6f266ee85c8bb6acc703557c7b2bfbf85ec7c2a1efd6066290d870c"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 35,
+      "sha256": "16e24fb8b39c57c8bce01ed66489f2513f049f83a1c5216dafb2c60c9d24b822"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 19,
+      "sha256": "907876c9508f8bcaaac5842e517783a7a7aa5582c6edb9e4a22eb6f3d2c39004"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 30,
+      "sha256": "0aeddb811937fbfada2bb37a822b3143a140c813296a5f7423aa9668a48fa5d2"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 38,
+      "sha256": "cfc79d05780b79c9364209b53311ed948a4f0f8f359a50316c087bf4835f825a"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 36,
+      "sha256": "9d9aab62ae3ce6caaa4f7af503578f8c019eeb333ba5a29a3791f18170f6d0f7"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 24,
+      "sha256": "00aa347e77034e9e29fc91ed0426300dcc221616aff16f28164fcb49a32bd22a"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 20,
+      "sha256": "291a9e471994e600337dc8df0740ffe9c65ae57ff79952acf0507f20268c5bc3"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 47,
+      "sha256": "5d00067e031f6daa44ce48ff87ee96b815690f630f308797fc8424da1c5eb1dc"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 8,
+      "sha256": "9d40dfa375682b5fafe034369f211b084f9b48dabe3e98136cd8d97ed9ea3521"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 59,
+      "sha256": "277f597f98d908396c59fd263cc2f3d8844f840b5c73f43044c85d20bb09d7c6"
+    },
+    {
+      "chapter": 14,
+      "verse_count": 57,
+      "sha256": "f47e62ebc20f6c4a5e6d5791a6c60bdde8101405b51f3d4645f1395b79d720ae"
+    },
+    {
+      "chapter": 15,
+      "verse_count": 33,
+      "sha256": "55dd50f5dbe8d5dfe825aadc39c9538bac745c521e9c9f6ad3533ea4a8a1e9b5"
+    },
+    {
+      "chapter": 16,
+      "verse_count": 34,
+      "sha256": "a112fc95d9af3ce79a1036684bbf9360e2d84e607c5dcd1d2415de46b260f10a"
+    },
+    {
+      "chapter": 17,
+      "verse_count": 16,
+      "sha256": "59317dfc1be06929167c8a938b7ee54707a42abb52dcddf66d8eb8c221f98b04"
+    },
+    {
+      "chapter": 18,
+      "verse_count": 30,
+      "sha256": "692f9b856f07c4d7cbd93c6006e3d99637a294e1e97fb2fb305dbf75ca4b84c9"
+    },
+    {
+      "chapter": 19,
+      "verse_count": 37,
+      "sha256": "6197cab754158fbfd0a6c56a5b7593fcb82abbf272835144eecb3150aeae63d6"
+    },
+    {
+      "chapter": 20,
+      "verse_count": 27,
+      "sha256": "4b06a6404c02607784eff326c52cf3a5b98bc0d34bbad95f65226dbf74327d40"
+    },
+    {
+      "chapter": 21,
+      "verse_count": 24,
+      "sha256": "33013a80e41e372e08af9d9a233837b376ac7cb9183c76b054734096e81a6d3c"
+    },
+    {
+      "chapter": 22,
+      "verse_count": 33,
+      "sha256": "fb8b37c9db1c2746c3a116326314a5d0d441d2cf9c794a9bb1456877b4844a82"
+    },
+    {
+      "chapter": 23,
+      "verse_count": 44,
+      "sha256": "d4997d8e13bc78d29a991a52ae428730379f11d51fbf898d14220a5e3a31c82d"
+    },
+    {
+      "chapter": 24,
+      "verse_count": 23,
+      "sha256": "9504fee98c0863d9837e1917a1dc3c2a155ea4d54e4b87167193289f598e9bbc"
+    },
+    {
+      "chapter": 25,
+      "verse_count": 55,
+      "sha256": "fd87ff98c41c16d2c709325f17baf47fc971b87806f8badfcd99545d74c0346b"
+    },
+    {
+      "chapter": 26,
+      "verse_count": 46,
+      "sha256": "54596fe98da94536e9c93831116a3b66ce031cafd44974e633f3416e00823bde"
+    },
+    {
+      "chapter": 27,
+      "verse_count": 34,
+      "sha256": "1f8b3ca71123f98e400d1b37f2258b206ad9e80fb6bcc6ac6085de7d4abc0791"
+    }
+  ]
+}

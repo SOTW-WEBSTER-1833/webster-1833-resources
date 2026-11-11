@@ -1,0 +1,28 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "MAL",
+  "chapter_count": 4,
+  "verse_count": 55,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 14,
+      "sha256": "92ebce2109935f33ed28f4978d2d2476e958fca6c2dc6dda3200074c7533e172"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 17,
+      "sha256": "b356d75b4f4857b69961705dc100ce92c2ec57413b4f4b1f507f299dc90505c0"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 18,
+      "sha256": "9100be93b25b72ad5c194f416afeb10141877a08f7031d943c644f315303a076"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 6,
+      "sha256": "b1957f23585a000d0f5a75a12db0b8f9fbab891933daf5fdecfeb6a3f63fffc9"
+    }
+  ]
+}
