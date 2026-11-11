@@ -1,0 +1,404 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "ACT",
+  "chapter": 24,
+  "verses": [
+    {
+      "id": "ACT.24.1",
+      "edition_verse_id": "WEBSTER1833:ACT.24.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And after five days, Ananias the high priest descended with the elders, and ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " a certain orator ",
+          "kind": "text"
+        },
+        {
+          "text": "named",
+          "kind": "supplied"
+        },
+        {
+          "text": " Tertullus, who informed the governor against Paul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "ACT.24.2",
+      "edition_verse_id": "WEBSTER1833:ACT.24.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And when he was called forth, Tertullus began to accuse ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": ", saying, Seeing that by thee we enjoy great quietness, and that very worthy deeds are done to this nation by thy providence,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.3",
+      "edition_verse_id": "WEBSTER1833:ACT.24.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "We accept ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " always, and in all places, most noble Felix, with all thankfulness.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.4",
+      "edition_verse_id": "WEBSTER1833:ACT.24.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Notwithstanding, that I may not be further tedious to thee, I pray thee, that thou wouldst of thy clemency hear us a few words.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.5",
+      "edition_verse_id": "WEBSTER1833:ACT.24.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "For we have found this a pestilent man, and a mover of sedition among all the Jews throughout the world, and a ring-leader of the sect of the Nazarenes:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.6",
+      "edition_verse_id": "WEBSTER1833:ACT.24.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.7",
+      "edition_verse_id": "WEBSTER1833:ACT.24.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "But the chief captain Lysias came and with great violence took ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of our hands,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.8",
+      "edition_verse_id": "WEBSTER1833:ACT.24.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "Commanding his accusers to come to thee: by examining whom, thou thyself mayest take knowledge of all these things of which we accuse him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.9",
+      "edition_verse_id": "WEBSTER1833:ACT.24.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And the Jews also assented, saying, that these things were so.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.10",
+      "edition_verse_id": "WEBSTER1833:ACT.24.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Then Paul, after the governor had beckoned to him to speak, answered, Forasmuch as I know that thou hast been for many years a judge to this nation, I do the more cheerfully answer for myself:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.11",
+      "edition_verse_id": "WEBSTER1833:ACT.24.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "That thou mayest understand, that there are yet but twelve days since I went up to Jerusalem to worship.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.12",
+      "edition_verse_id": "WEBSTER1833:ACT.24.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And they neither found me in the temple disputing with any man, neither exciting the people to sedition, neither in the synagogues, nor in the city:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.13",
+      "edition_verse_id": "WEBSTER1833:ACT.24.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Neither can they prove the things of which they now accuse me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.14",
+      "edition_verse_id": "WEBSTER1833:ACT.24.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "But this I confess to thee, that after the way which they call heresy, so I worship the God of my fathers, believing all things which are written in the law and in the prophets:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.15",
+      "edition_verse_id": "WEBSTER1833:ACT.24.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And have hope towards God, which they themselves also allow, that there will be a resurrection of the dead, both of the just and unjust.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.16",
+      "edition_verse_id": "WEBSTER1833:ACT.24.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And in this I exercise myself, to have always a conscience void of offense towards God, and ",
+          "kind": "text"
+        },
+        {
+          "text": "towards",
+          "kind": "supplied"
+        },
+        {
+          "text": " men.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.17",
+      "edition_verse_id": "WEBSTER1833:ACT.24.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Now after many years, I came to bring alms to my nation, and offerings.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.18",
+      "edition_verse_id": "WEBSTER1833:ACT.24.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Upon which certain Jews from Asia found me purified in the temple, neither with multitude, nor with tumult.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.19",
+      "edition_verse_id": "WEBSTER1833:ACT.24.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Who ought to have been here before thee, and object if they had aught against me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.20",
+      "edition_verse_id": "WEBSTER1833:ACT.24.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "Or else let these same ",
+          "kind": "text"
+        },
+        {
+          "text": "here",
+          "kind": "supplied"
+        },
+        {
+          "text": " say, if they have found any evil-doing in me, while I stood before the council,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.21",
+      "edition_verse_id": "WEBSTER1833:ACT.24.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Except it is for this one voice, that I cried, standing among them, Concerning the resurrection of the dead I am called in question by you this day.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.22",
+      "edition_verse_id": "WEBSTER1833:ACT.24.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And when Felix heard these things, having more perfect knowledge of ",
+          "kind": "text"
+        },
+        {
+          "text": "that",
+          "kind": "supplied"
+        },
+        {
+          "text": " way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.23",
+      "edition_verse_id": "WEBSTER1833:ACT.24.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And he commanded a centurion to keep Paul, and to let ",
+          "kind": "text"
+        },
+        {
+          "text": "him",
+          "kind": "supplied"
+        },
+        {
+          "text": " have liberty, and that he should forbid none of his acquaintance to minister, or come to him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.24",
+      "edition_verse_id": "WEBSTER1833:ACT.24.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And after certain days, when Felix came with his wife Drusilla, who was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.25",
+      "edition_verse_id": "WEBSTER1833:ACT.24.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And as he reasoned of righteousness, temperance, and judgment to come, Felix trembled, and answered, depart for this time; when I have a convenient season, I will call for thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.26",
+      "edition_verse_id": "WEBSTER1833:ACT.24.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "He hoped also that money would have been given him by Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "ACT.24.27",
+      "edition_verse_id": "WEBSTER1833:ACT.24.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "But after two years Porcius Festus came as successor to Felix: and Felix willing to show the Jews a pleasure, left Paul bound.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

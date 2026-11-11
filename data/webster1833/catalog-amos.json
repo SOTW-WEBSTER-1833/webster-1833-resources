@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "AMO",
+  "book_name": "Amos",
+  "book_order": 30,
+  "canonical_ids": "AMO.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:AMO.{chapter}.{verse}",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "traditional_verse_positions": 146,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "amos/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JOL",
+  "successor_book_code": "OBA",
+  "source_provenance": "books/amos/SOURCE_INVENTORY.json",
+  "reader": "books/amos/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

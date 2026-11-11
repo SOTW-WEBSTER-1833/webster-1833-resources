@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "ACT",
+  "book_name": "Acts",
+  "book_order": 44,
+  "canonical_ids": "ACT.{chapter}.{verse}",
+  "edition_ids": "WEBSTER1833:ACT.{chapter}.{verse}",
+  "chapter_count": 28,
+  "verse_count": 1007,
+  "traditional_verse_positions": 1007,
+  "omitted_from_main_text": [],
+  "chapter_path_template": "acts/chapters/{chapter:02d}.json",
+  "predecessor_book_code": "JHN",
+  "successor_book_code": "ROM",
+  "source_provenance": "books/acts/SOURCE_INVENTORY.json",
+  "reader": "books/acts/site/index.html",
+  "note": "Text-only Webster 1833 source projection. No scans, Strong’s markup, lexicons, or commentary."
+}

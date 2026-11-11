@@ -1,0 +1,53 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "AMO",
+  "chapter_count": 9,
+  "verse_count": 146,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "sha256": "c2bcac7b9716f04e2606701a47720a987988916a61f8ac4e1ab821b0f33dfb9d"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 16,
+      "sha256": "e0fc292e2e51eadf6bcac957e2d5453ebd1058ba7534c960507c605407a165fc"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "c8aaf6b75328b77e9e86c6129144c15015fbd26355e13d9eeb5f902999af8009"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "sha256": "7f64f1eef3b9a11be7312d63c78ab158021f66c252fbe14ae70ce7a8ec51e82e"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 27,
+      "sha256": "5c9943bd1feb2b8d09c470f8dc4e37fd4de670bf95d56ac86cee37dfdeac875c"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "sha256": "a504544c7e6385b85767240f949d34d9ec6b31de045cc4e1a13060e27816f47e"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 17,
+      "sha256": "d8d93129d145177e1e48e6142a3b50823e8b522e9ba41283f2c49b8760ff972e"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 14,
+      "sha256": "213d12904ea0810f4b23ab474792cbf6c7dd06f6806201cf4276d0198c008ddc"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 15,
+      "sha256": "90e3ebab5400c724ecee64bc522ef0829b25d3212e16de257b44e39b2bb7d101"
+    }
+  ]
+}
