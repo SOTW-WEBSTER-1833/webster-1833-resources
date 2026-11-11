@@ -1,0 +1,43 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "MIC",
+  "chapter_count": 7,
+  "verse_count": 105,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 16,
+      "sha256": "48a6fdbe4d007deccaff6199fb000c73a3acfa632c654e8f85fbe580dd5e35ea"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "sha256": "39aa034eefbccd41ff54cd1e27572f7ce0773075d73c5ed43bb10d5039845f7e"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 12,
+      "sha256": "011f90591dce125e465137ce5cdeb55df744412e001f98ecde8adfa1bac95ca8"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 13,
+      "sha256": "3ac8132438329eae51851e6ef2e1f2756ef1721e1ab46a51f656fcee75b49f80"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 15,
+      "sha256": "0a15fbf397f236c1d20403cc1e2ab457af431b3eb8daf5b6ce112306bd6c0079"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 16,
+      "sha256": "348c563614526382718a6d6e186f388622dcbcfdf0beab03000785af982d3796"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 20,
+      "sha256": "88fe6dc2c51cbf168e31737be261e70e563f5d7925d413338e9bf18d19fdba5a"
+    }
+  ]
+}

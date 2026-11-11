@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "NAM",
+  "chapter_count": 3,
+  "verse_count": 47,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "sha256": "8bd695933ee96ed59d758dcf341d0f9ef2002fdc8695fd563d5422f4861627d4"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 13,
+      "sha256": "7a8169bd21b08c3da04c1ccc30551f14920d7a4f8fcedc4e745c00c8a068070f"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 19,
+      "sha256": "85bd1e18f3b238236f14e4f28829f0bad5b23fb396596070e7f3674a509e0a7a"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "NEH",
+  "chapter_count": 13,
+  "verse_count": 406,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 11,
+      "sha256": "f87caf32b6ffe4877444e03ff87859a3958b8b25141124a0e8652fa7ae34d19e"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 20,
+      "sha256": "0a239b2d309a259d360b3b38072de1d8af31e23b85bf893e9202cd1f3bb7c620"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 32,
+      "sha256": "2d29db93357511bfa215f227a01a7c40b8c333f33bf5967837cdcc4e21b3f2b5"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 23,
+      "sha256": "42930b3a500fb2523d2d0662b590434e4adc76a8899567283b9fad32f4f99fb9"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 19,
+      "sha256": "46c6523b9cf01a6386c68227086081520ee5d9c020d35c5d38d28144cee41a49"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 19,
+      "sha256": "bfa29836b51988348da69528ff950215a62ac2938aa43a5cf5d6c299e41b98d1"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 73,
+      "sha256": "a253aa08f78a68bcd2b6ca28ade4c8f15e1541588b83ae93ad6d4d4a45d411c9"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 18,
+      "sha256": "18b7ed918aeeaeabb199961a67cc7c2d2b36a2a49de384ae43d3d3b33fea356f"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 38,
+      "sha256": "a1e79d87cc62150dffa4264af838d259d52fe49679621a9d447df67dd33f4bb8"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 39,
+      "sha256": "79c252624e5be31c45dcdd3dda9afbc34337b53317b6cc1e74894dca6d64591d"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 36,
+      "sha256": "0fad92d3741193dfb742d6e3cdfb56e762d9e383c518e77d333e2d7e81c8681c"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 47,
+      "sha256": "152b880aedb8006983e837d371512997cb07eea17b7446b4d0ac1f286f97b52b"
+    },
+    {
+      "chapter": 13,
+      "verse_count": 31,
+      "sha256": "01a8452f0d2a9286e759384be69567793a35dfd5dd230998d297143afe17469c"
+    }
+  ]
+}
