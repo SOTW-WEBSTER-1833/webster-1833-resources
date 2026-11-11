@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 54,
+  "verses": [
+    {
+      "id": "PSA.54.1",
+      "edition_verse_id": "WEBSTER1833:PSA.54.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "To the chief Musician on Neginoth, Maschil, ",
+          "kind": "text"
+        },
+        {
+          "text": "A Psalm",
+          "kind": "supplied"
+        },
+        {
+          "text": " of David, when the Ziphims came and said to Saul, Doth not David hide himself with us? Save me, O God, by thy name, and judge me by thy strength.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.54.2",
+      "edition_verse_id": "WEBSTER1833:PSA.54.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "Hear my prayer, O God; give ear to the words of my mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.3",
+      "edition_verse_id": "WEBSTER1833:PSA.54.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For strangers have risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.4",
+      "edition_verse_id": "WEBSTER1833:PSA.54.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Behold, God ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " my helper: the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " with them that uphold my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.5",
+      "edition_verse_id": "WEBSTER1833:PSA.54.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "He will reward evil to my enemies; cut them off in thy truth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.6",
+      "edition_verse_id": "WEBSTER1833:PSA.54.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "I will freely sacrifice to thee: I will praise thy name, O LORD; for ",
+          "kind": "text"
+        },
+        {
+          "text": "it is",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.54.7",
+      "edition_verse_id": "WEBSTER1833:PSA.54.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "For he hath delivered me out of all trouble: and my eye hath seen ",
+          "kind": "text"
+        },
+        {
+          "text": "its desire",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon my enemies.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

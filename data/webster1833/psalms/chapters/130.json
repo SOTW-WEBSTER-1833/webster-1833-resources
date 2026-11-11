@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 130,
+  "verses": [
+    {
+      "id": "PSA.130.1",
+      "edition_verse_id": "WEBSTER1833:PSA.130.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Song of degrees. Out of the depths have I cried to thee, O LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.130.2",
+      "edition_verse_id": "WEBSTER1833:PSA.130.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "LORD, hear my voice: let thy ears be attentive to the voice of my supplications.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.3",
+      "edition_verse_id": "WEBSTER1833:PSA.130.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If thou, LORD, shouldest mark iniquities, O LORD, who shall stand?",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.4",
+      "edition_verse_id": "WEBSTER1833:PSA.130.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "But ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " forgiveness with thee, that thou mayest be feared.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.5",
+      "edition_verse_id": "WEBSTER1833:PSA.130.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I wait for the LORD, my soul doth wait, and in his word do I hope.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.6",
+      "edition_verse_id": "WEBSTER1833:PSA.130.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "My soul ",
+          "kind": "text"
+        },
+        {
+          "text": "waiteth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for the LORD more than they that watch for the morning: ",
+          "kind": "text"
+        },
+        {
+          "text": "I say",
+          "kind": "supplied"
+        },
+        {
+          "text": ", ",
+          "kind": "text"
+        },
+        {
+          "text": "more than",
+          "kind": "supplied"
+        },
+        {
+          "text": " they that watch for the morning.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.7",
+      "edition_verse_id": "WEBSTER1833:PSA.130.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Let Israel hope in the LORD: for with the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "there is",
+          "kind": "supplied"
+        },
+        {
+          "text": " mercy, and with him ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " plenteous redemption.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.130.8",
+      "edition_verse_id": "WEBSTER1833:PSA.130.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And he shall redeem Israel from all his iniquities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

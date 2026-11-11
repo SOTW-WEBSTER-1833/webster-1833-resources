@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 138,
+  "verses": [
+    {
+      "id": "PSA.138.1",
+      "edition_verse_id": "WEBSTER1833:PSA.138.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Psalm",
+          "kind": "supplied"
+        },
+        {
+          "text": " of David. I will praise thee with my whole heart: before the gods will I sing praise to thee.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.138.2",
+      "edition_verse_id": "WEBSTER1833:PSA.138.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I will worship towards thy holy temple, and praise thy name for thy loving-kindness and for thy truth: for thou hast magnified thy word above all thy name.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.3",
+      "edition_verse_id": "WEBSTER1833:PSA.138.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "In the day when I cried thou didst answer me, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " strengthen me ",
+          "kind": "text"
+        },
+        {
+          "text": "with",
+          "kind": "supplied"
+        },
+        {
+          "text": " strength in my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.4",
+      "edition_verse_id": "WEBSTER1833:PSA.138.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.5",
+      "edition_verse_id": "WEBSTER1833:PSA.138.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "Yes, they shall sing in the ways of the LORD: for great ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the glory of the LORD.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.6",
+      "edition_verse_id": "WEBSTER1833:PSA.138.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Though the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " high, yet hath he respect to the lowly: but the proud he knoweth afar off.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.7",
+      "edition_verse_id": "WEBSTER1833:PSA.138.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Though I walk in the midst of trouble, thou wilt revive me: thou wilt stretch forth thy hand against the wrath of my enemies, and thy right hand will save me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.138.8",
+      "edition_verse_id": "WEBSTER1833:PSA.138.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "The LORD will perfect ",
+          "kind": "text"
+        },
+        {
+          "text": "that which",
+          "kind": "supplied"
+        },
+        {
+          "text": " concerneth me: thy mercy, O LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "endureth",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ever: forsake not the works thy own hands.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

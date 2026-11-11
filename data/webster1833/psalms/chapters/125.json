@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 125,
+  "verses": [
+    {
+      "id": "PSA.125.1",
+      "edition_verse_id": "WEBSTER1833:PSA.125.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "A Song of degrees. They that trust in the LORD, ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " as mount Zion, ",
+          "kind": "text"
+        },
+        {
+          "text": "which",
+          "kind": "supplied"
+        },
+        {
+          "text": " cannot be removed, ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " abideth for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.125.2",
+      "edition_verse_id": "WEBSTER1833:PSA.125.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "As",
+          "kind": "supplied"
+        },
+        {
+          "text": " the mountains ",
+          "kind": "text"
+        },
+        {
+          "text": "are",
+          "kind": "supplied"
+        },
+        {
+          "text": " round Jerusalem, so the LORD ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " around his people from henceforth even for ever.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.3",
+      "edition_verse_id": "WEBSTER1833:PSA.125.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands to iniquity.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.4",
+      "edition_verse_id": "WEBSTER1833:PSA.125.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "Do good, O LORD, to ",
+          "kind": "text"
+        },
+        {
+          "text": "those that",
+          "kind": "supplied"
+        },
+        {
+          "text": " are good, and to ",
+          "kind": "text"
+        },
+        {
+          "text": "them that are",
+          "kind": "supplied"
+        },
+        {
+          "text": " upright in their hearts.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.125.5",
+      "edition_verse_id": "WEBSTER1833:PSA.125.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "As for such as turn aside to their crooked ways, the LORD shall lead them forth with the workers of iniquity: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " peace ",
+          "kind": "text"
+        },
+        {
+          "text": "shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " upon Israel.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "PSA",
+  "chapter": 142,
+  "verses": [
+    {
+      "id": "PSA.142.1",
+      "edition_verse_id": "WEBSTER1833:PSA.142.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Maschil of David; a prayer when he was in the cave. I cried to the LORD with my voice; with my voice to the LORD I made my supplication.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "PSA.142.2",
+      "edition_verse_id": "WEBSTER1833:PSA.142.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "I poured out my complaint before him; I showed before him my trouble.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.142.3",
+      "edition_verse_id": "WEBSTER1833:PSA.142.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "When my spirit was overwhelmed within me, then thou knewest my path. In the way in which I walked have they privily laid a snare for me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.142.4",
+      "edition_verse_id": "WEBSTER1833:PSA.142.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "I looked on ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " right hand, and beheld, but ",
+          "kind": "text"
+        },
+        {
+          "text": "there was",
+          "kind": "supplied"
+        },
+        {
+          "text": " no man that would know me: refuge failed me; no man cared for my soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.142.5",
+      "edition_verse_id": "WEBSTER1833:PSA.142.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "I cried to thee, O LORD: I said, Thou ",
+          "kind": "text"
+        },
+        {
+          "text": "art",
+          "kind": "supplied"
+        },
+        {
+          "text": " my refuge ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " my portion in the land of the living.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.142.6",
+      "edition_verse_id": "WEBSTER1833:PSA.142.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "Attend to my cry; for I am brought very low: deliver me from my persecutors; for they are stronger than I.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "PSA.142.7",
+      "edition_verse_id": "WEBSTER1833:PSA.142.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "Bring my soul out of prison, that I may praise thy name: the righteous shall encompass me; for thou wilt deal bountifully with me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}
