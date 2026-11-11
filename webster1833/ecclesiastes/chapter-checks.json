@@ -1,0 +1,68 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "ECC",
+  "chapter_count": 12,
+  "verse_count": 222,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 18,
+      "sha256": "06d44226862bd3d4fb4df18a1b028c11eec9a86d69c04f331069a22be4b3252b"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 26,
+      "sha256": "2fefa6290e3ee827bd3ab7cb05789336cc5c4c541f15d6c3632cceca6a3ac7f2"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 22,
+      "sha256": "cef570fd6173ca47327d1f06a479999c7a5e3f46f51e897622615b0ac34c330f"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 16,
+      "sha256": "004fff21ccf7033d2227c148b036b007eb37581c21e896acb71a7a8034a46de2"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 20,
+      "sha256": "6d8b88aa271b3934c3f60a2a0b7ba4cc4d6d1da1da91869047c0afe6e0a1971b"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 12,
+      "sha256": "0072aacfc96737fe5fe89eae038a0ad423c3d3758f2fdf7bf47c09b0237bc36d"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 29,
+      "sha256": "cca06a8fb5bad63322993eb7bb929010401f4c41fa45a04d4ab305083cf7751c"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 17,
+      "sha256": "38c3d6b8f33bb4dcf4792e0aea32b4d6e2241f0f152ce34eb8c2641704439775"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 18,
+      "sha256": "5d9362c04b23149391958fda4ea536f64a3b988f59e26bd2df2a647e6b6de289"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 20,
+      "sha256": "bcd342b90d6c0963396127a574e28da536551d70a22c12dd59226bbd6c673374"
+    },
+    {
+      "chapter": 11,
+      "verse_count": 10,
+      "sha256": "550c36efd5f82cf0444e008d0e1fe42e921d362b248df25a5b5fed552d501dc9"
+    },
+    {
+      "chapter": 12,
+      "verse_count": 14,
+      "sha256": "bfddb7f6fa18b1db247d6b09c04d701c46fd9ea9885fc45d86d50c79ae78f186"
+    }
+  ]
+}

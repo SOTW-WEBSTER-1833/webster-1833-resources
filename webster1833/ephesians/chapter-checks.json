@@ -1,0 +1,38 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "EPH",
+  "chapter_count": 6,
+  "verse_count": 155,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 23,
+      "sha256": "3e5adcef4faf4ca4995a95e84841c67abd0f4861461bcb33915a6e96a7c499d4"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 22,
+      "sha256": "6a7ae41ded10946ba2d8e34b82f3e3790c4e0670d23be5ec0005168dd8ea70ea"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "sha256": "d29aa0cb198e8ef26e987c586cc5e0624dde0b4ea41f488600d38bee90b88c66"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 32,
+      "sha256": "f105b2d2e7dcc96cc630f0a8799dd29e158278133ee5aaf6563aabd32aa0c673"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 33,
+      "sha256": "760329203e69d1fd2f369dbadaba0f378cb61e50408b6ee77500b36b0dcd2e1d"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 24,
+      "sha256": "a56e44ea18db650d4ab2f5137b793dbc65829f82faa72414b4214a2728fa6874"
+    }
+  ]
+}

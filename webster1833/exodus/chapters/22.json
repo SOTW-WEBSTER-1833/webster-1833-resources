@@ -1,0 +1,636 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "EXO",
+  "chapter": 22,
+  "verses": [
+    {
+      "id": "EXO.22.1",
+      "edition_verse_id": "WEBSTER1833:EXO.22.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "EXO.22.2",
+      "edition_verse_id": "WEBSTER1833:EXO.22.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "If a thief shall be found breaking through, and be smitten that he die, ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall",
+          "kind": "supplied"
+        },
+        {
+          "text": " no blood ",
+          "kind": "text"
+        },
+        {
+          "text": "be shed",
+          "kind": "supplied"
+        },
+        {
+          "text": " for him.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.3",
+      "edition_verse_id": "WEBSTER1833:EXO.22.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "If the sun shall have risen upon him, ",
+          "kind": "text"
+        },
+        {
+          "text": "there shall be",
+          "kind": "supplied"
+        },
+        {
+          "text": " blood ",
+          "kind": "text"
+        },
+        {
+          "text": "shed",
+          "kind": "supplied"
+        },
+        {
+          "text": " for him: ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " he should make full restitution; if he have nothing, then he shall be sold for his theft.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.4",
+      "edition_verse_id": "WEBSTER1833:EXO.22.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "If the theft shall be certainly found in his hand alive, whether an ox, or ass, or sheep; he shall restore double.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.5",
+      "edition_verse_id": "WEBSTER1833:EXO.22.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man's field: of the best of his own field, and of the best of his own vineyard shall he make restitution.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.6",
+      "edition_verse_id": "WEBSTER1833:EXO.22.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "If fire shall break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field shall be consumed; he that kindled the fire shall surely make restitution.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.7",
+      "edition_verse_id": "WEBSTER1833:EXO.22.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "If a man shall deliver to his neighbor money or stuff to keep, and it be stolen out of the man's house; if the thief shall be found, let him pay double.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.8",
+      "edition_verse_id": "WEBSTER1833:EXO.22.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "If the thief shall not be found, then the master of the house shall be brought to the judges, ",
+          "kind": "text"
+        },
+        {
+          "text": "to see",
+          "kind": "supplied"
+        },
+        {
+          "text": " whether he hath put his hand to his neighbor's goods.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.9",
+      "edition_verse_id": "WEBSTER1833:EXO.22.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "For all manner of trespass, ",
+          "kind": "text"
+        },
+        {
+          "text": "whether it be",
+          "kind": "supplied"
+        },
+        {
+          "text": " for ox, for ass, for sheep, for raiment, ",
+          "kind": "text"
+        },
+        {
+          "text": "or",
+          "kind": "supplied"
+        },
+        {
+          "text": " for any manner of lost thing which ",
+          "kind": "text"
+        },
+        {
+          "text": "another",
+          "kind": "supplied"
+        },
+        {
+          "text": " challengeth to be his: the cause of both parties shall come before the judges; ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he whom the judges shall condemn, shall pay double to his neighbor.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.10",
+      "edition_verse_id": "WEBSTER1833:EXO.22.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "If a man shall deliver to his neighbor an ass, or an ox, or a sheep, or any beast to keep; and it shall die, or be hurt, or driven away, no man seeing ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.11",
+      "edition_verse_id": "WEBSTER1833:EXO.22.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "Then",
+          "kind": "supplied"
+        },
+        {
+          "text": " shall an oath of the LORD be between them both, that he hath not put his hand to his neighbor's goods; and the owner of it shall accept of it, and he shall not make restitution.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.12",
+      "edition_verse_id": "WEBSTER1833:EXO.22.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "And if it shall be stolen from him, he shall make restitution to the owner of it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.13",
+      "edition_verse_id": "WEBSTER1833:EXO.22.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "If it shall be torn in pieces; ",
+          "kind": "text"
+        },
+        {
+          "text": "then",
+          "kind": "supplied"
+        },
+        {
+          "text": " let him bring it ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " witness, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " he shall not make good that which was torn.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.14",
+      "edition_verse_id": "WEBSTER1833:EXO.22.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And if a man shall borrow ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of his neighbor, and it shall be hurt, or die, the owner of it ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " not with it, he shall surely make ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " good.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.15",
+      "edition_verse_id": "WEBSTER1833:EXO.22.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "But",
+          "kind": "supplied"
+        },
+        {
+          "text": " if the owner of it shall ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " with it, he shall not make ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " good: if it ",
+          "kind": "text"
+        },
+        {
+          "text": "be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a hired ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": ", it came for his hire.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.16",
+      "edition_verse_id": "WEBSTER1833:EXO.22.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And if a man shall entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.17",
+      "edition_verse_id": "WEBSTER1833:EXO.22.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "If her father shall utterly refuse to give her to him, he shall pay money according to the dower of virgins.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.18",
+      "edition_verse_id": "WEBSTER1833:EXO.22.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Thou shalt not suffer a witch to live.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.19",
+      "edition_verse_id": "WEBSTER1833:EXO.22.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "Whoever lieth with a beast shall surely be put to death.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.20",
+      "edition_verse_id": "WEBSTER1833:EXO.22.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "He that sacrificeth to ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " god, save to the LORD only, he shall be utterly destroyed.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.21",
+      "edition_verse_id": "WEBSTER1833:EXO.22.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "Thou shalt neither vex a stranger, nor oppress him; for ye were strangers in the land of Egypt.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.22",
+      "edition_verse_id": "WEBSTER1833:EXO.22.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "Ye shall not afflict any widow, or fatherless child.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.23",
+      "edition_verse_id": "WEBSTER1833:EXO.22.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "If thou shalt afflict them in any wise, and they cry at all to me, I will surely hear their cry:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.24",
+      "edition_verse_id": "WEBSTER1833:EXO.22.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.25",
+      "edition_verse_id": "WEBSTER1833:EXO.22.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "If thou shalt lend money to ",
+          "kind": "text"
+        },
+        {
+          "text": "any of",
+          "kind": "supplied"
+        },
+        {
+          "text": " my people ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " poor by thee, thou shalt not be to him as a usurer, neither shalt thou lay upon him usury.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.26",
+      "edition_verse_id": "WEBSTER1833:EXO.22.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "If thou shalt at all take thy neighbor's raiment to pledge, thou shalt deliver it to him by the setting of the sun.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.27",
+      "edition_verse_id": "WEBSTER1833:EXO.22.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "For that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his only covering, it ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth to me, that I will hear; for I ",
+          "kind": "text"
+        },
+        {
+          "text": "am",
+          "kind": "supplied"
+        },
+        {
+          "text": " gracious.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.28",
+      "edition_verse_id": "WEBSTER1833:EXO.22.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "Thou shalt not revile the gods, nor curse the ruler of thy people.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.29",
+      "edition_verse_id": "WEBSTER1833:EXO.22.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Thou shalt not delay ",
+          "kind": "text"
+        },
+        {
+          "text": "to offer",
+          "kind": "supplied"
+        },
+        {
+          "text": " the first of thy ripe fruits, and of thy liquors: the first-born of thy sons shalt thou give to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.30",
+      "edition_verse_id": "WEBSTER1833:EXO.22.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "Likewise shalt thou do with thy oxen, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it to me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "EXO.22.31",
+      "edition_verse_id": "WEBSTER1833:EXO.22.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "And ye shall be holy men to me: neither shall ye eat ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " flesh ",
+          "kind": "text"
+        },
+        {
+          "text": "that is",
+          "kind": "supplied"
+        },
+        {
+          "text": " torn of beasts in the field; ye shall cast it to the dogs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

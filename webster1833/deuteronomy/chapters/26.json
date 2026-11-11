@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "DEU",
+  "chapter": 26,
+  "verses": [
+    {
+      "id": "DEU.26.1",
+      "edition_verse_id": "WEBSTER1833:DEU.26.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "And it shall be, when thou hast come in to the land which the LORD thy God giveth thee ",
+          "kind": "text"
+        },
+        {
+          "text": "for",
+          "kind": "supplied"
+        },
+        {
+          "text": " an inheritance, and possessest it, and dwellest therein;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "DEU.26.2",
+      "edition_verse_id": "WEBSTER1833:DEU.26.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " in a basket, and shalt go to the place which the LORD thy God shall choose to place his name there.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.3",
+      "edition_verse_id": "WEBSTER1833:DEU.26.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And thou shalt go to the priest that shall be in those days, and say to him, I profess this day to the LORD thy God, that I have come to the country which the Lord swore to our fathers to give us.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.4",
+      "edition_verse_id": "WEBSTER1833:DEU.26.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the priest shall take the basket from thy hand, and set it down before the altar of the LORD thy God.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.5",
+      "edition_verse_id": "WEBSTER1833:DEU.26.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And thou shalt speak and say before the LORD thy God, A Syrian ready to perish ",
+          "kind": "text"
+        },
+        {
+          "text": "was",
+          "kind": "supplied"
+        },
+        {
+          "text": " my father, and he went down to Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.6",
+      "edition_verse_id": "WEBSTER1833:DEU.26.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the Egyptians ill-treated us, and afflicted us, and laid upon us hard bondage:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.7",
+      "edition_verse_id": "WEBSTER1833:DEU.26.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "And when we cried to the LORD God of our fathers, the LORD heard our voice, and looked on our affliction, and our labor, and our oppression:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.8",
+      "edition_verse_id": "WEBSTER1833:DEU.26.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the LORD brought us out of Egypt with a mighty hand, and with an out-stretched arm, and with great terribleness, and with signs, and with wonders;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.9",
+      "edition_verse_id": "WEBSTER1833:DEU.26.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And he hath brought us into this place, and hath given us this land, ",
+          "kind": "text"
+        },
+        {
+          "text": "even",
+          "kind": "supplied"
+        },
+        {
+          "text": " a land that floweth with milk and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.10",
+      "edition_verse_id": "WEBSTER1833:DEU.26.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "And now, behold, I have brought the first-fruits of the land, which thou, O LORD, hast given me: and thou shalt set it before the LORD thy God, and worship before the LORD thy God:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.11",
+      "edition_verse_id": "WEBSTER1833:DEU.26.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And thou shalt rejoice in every good ",
+          "kind": "text"
+        },
+        {
+          "text": "thing",
+          "kind": "supplied"
+        },
+        {
+          "text": " which the LORD thy God hath given to thee, and to thy house, thou, and the Levite, and the stranger that ",
+          "kind": "text"
+        },
+        {
+          "text": "is",
+          "kind": "supplied"
+        },
+        {
+          "text": " among you.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.12",
+      "edition_verse_id": "WEBSTER1833:DEU.26.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "When thou hast made an end of tithing all the tithes of thy increase the third year, ",
+          "kind": "text"
+        },
+        {
+          "text": "which is",
+          "kind": "supplied"
+        },
+        {
+          "text": " the year of tithing, and hast given ",
+          "kind": "text"
+        },
+        {
+          "text": "it",
+          "kind": "supplied"
+        },
+        {
+          "text": " to the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates, and be filled:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.13",
+      "edition_verse_id": "WEBSTER1833:DEU.26.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of ",
+          "kind": "text"
+        },
+        {
+          "text": "my",
+          "kind": "supplied"
+        },
+        {
+          "text": " house, and also have given them to the Levite, and to the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten ",
+          "kind": "text"
+        },
+        {
+          "text": "them",
+          "kind": "supplied"
+        },
+        {
+          "text": ":",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.14",
+      "edition_verse_id": "WEBSTER1833:DEU.26.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "I have not eaten of it in my mourning, neither have I taken away ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of it for ",
+          "kind": "text"
+        },
+        {
+          "text": "any",
+          "kind": "supplied"
+        },
+        {
+          "text": " unclean ",
+          "kind": "text"
+        },
+        {
+          "text": "use",
+          "kind": "supplied"
+        },
+        {
+          "text": ", nor given ",
+          "kind": "text"
+        },
+        {
+          "text": "aught",
+          "kind": "supplied"
+        },
+        {
+          "text": " of it for the dead: ",
+          "kind": "text"
+        },
+        {
+          "text": "but",
+          "kind": "supplied"
+        },
+        {
+          "text": " I have hearkened to the voice of the LORD my God, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " have done according to all that thou hast commanded me.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.15",
+      "edition_verse_id": "WEBSTER1833:DEU.26.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "Look down from thy holy habitation, from heaven, and bless thy people Israel, and the land which thou hast given us, as thou didst swear to our fathers, a land that floweth with milk and honey.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.16",
+      "edition_verse_id": "WEBSTER1833:DEU.26.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "This day the LORD thy God hath commanded thee to perform these statutes and judgments: thou shalt therefore keep and do them with all thy heart, and with all thy soul.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.17",
+      "edition_verse_id": "WEBSTER1833:DEU.26.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken to his voice:",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.18",
+      "edition_verse_id": "WEBSTER1833:DEU.26.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that ",
+          "kind": "text"
+        },
+        {
+          "text": "thou",
+          "kind": "supplied"
+        },
+        {
+          "text": " shouldst keep all his commandments;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "DEU.26.19",
+      "edition_verse_id": "WEBSTER1833:DEU.26.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "And to make thee high above all nations which he hath made, in praise, and in name, and in honor; and that thou mayest be a holy people to the LORD thy God, as he hath spoken.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

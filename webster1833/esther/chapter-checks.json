@@ -1,0 +1,58 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "EST",
+  "chapter_count": 10,
+  "verse_count": 167,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 22,
+      "sha256": "8e492948c51990f0eec9445ceb5a42399c14f5b9bcce669f5d9d2a34ace4f782"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "sha256": "037566671805350fb9ea670caeedf87ece4ed77fd7e5069107ce9b7d1dba31af"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 15,
+      "sha256": "dd05037af284825bcb7868f0fb127cdc18631ed2b88dd38bd05498a5bbd68537"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 17,
+      "sha256": "0c0c5dd06e8e1f008663e30bc13fc8c8ee269b71281a9a1fcb4819fdf52f08bf"
+    },
+    {
+      "chapter": 5,
+      "verse_count": 14,
+      "sha256": "43c08edad170c18250dc3fa1da18ee3f78e4a2b68a791f693da860ac258fab01"
+    },
+    {
+      "chapter": 6,
+      "verse_count": 14,
+      "sha256": "db965d35d42f09c3ecaa0d48ab4f1143c48df6d3039c08033b54d8ea3b4c3ff8"
+    },
+    {
+      "chapter": 7,
+      "verse_count": 10,
+      "sha256": "d96df8130ea59aa6be5f60fd490bee22837a2e197f78fa04c808e02d2c1d4b16"
+    },
+    {
+      "chapter": 8,
+      "verse_count": 17,
+      "sha256": "96159cafaa8eb11aa1d0a53fa1466ab73774ec379e8e5b676cfddbe1670cb428"
+    },
+    {
+      "chapter": 9,
+      "verse_count": 32,
+      "sha256": "ff1c05f61b3797d96e3b521e1dedf717164b56d56a28502b79ac58ec87019a1d"
+    },
+    {
+      "chapter": 10,
+      "verse_count": 3,
+      "sha256": "44918b78fd8490273e39f9ddbeb7aea891f981898b537cc0777ba83d098b24de"
+    }
+  ]
+}
