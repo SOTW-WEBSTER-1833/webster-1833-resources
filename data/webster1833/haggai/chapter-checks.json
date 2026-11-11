@@ -1,0 +1,18 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "HAG",
+  "chapter_count": 2,
+  "verse_count": 38,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 15,
+      "sha256": "2010600030538840eef7a66b01c0888c5f84171a3fb1461f01754cda24e67395"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 23,
+      "sha256": "ceda0c7b242fec9ac2f84295516f5973ed3711d8fa9889f8057d249a64a8281d"
+    }
+  ]
+}
