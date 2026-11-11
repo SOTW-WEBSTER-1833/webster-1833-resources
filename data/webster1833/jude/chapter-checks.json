@@ -1,0 +1,13 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "JUD",
+  "chapter_count": 1,
+  "verse_count": 25,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 25,
+      "sha256": "d84f9f9cb3094f71d8b32e564e2de21388000d5b24adbac095860151fd4ca81d"
+    }
+  ]
+}

@@ -1,0 +1,732 @@
+{
+  "schema_version": "1.0.0",
+  "edition_id": "WEBSTER1833",
+  "book_code": "JOS",
+  "chapter": 21,
+  "verses": [
+    {
+      "id": "JOS.21.1",
+      "edition_verse_id": "WEBSTER1833:JOS.21.1",
+      "verse": 1,
+      "spans": [
+        {
+          "text": "Then came near the heads of the fathers of the Levites to Eleazar the priest, and to Joshua the son of Nun, and to the heads of the fathers of the tribes of the children of Israel;",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": true
+    },
+    {
+      "id": "JOS.21.2",
+      "edition_verse_id": "WEBSTER1833:JOS.21.2",
+      "verse": 2,
+      "spans": [
+        {
+          "text": "And they spoke to them at Shiloh in the land of Canaan, saying, the LORD commanded by the hand of Moses to give us cities to dwell in, with their suburbs for our cattle.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.3",
+      "edition_verse_id": "WEBSTER1833:JOS.21.3",
+      "verse": 3,
+      "spans": [
+        {
+          "text": "And the children of Israel gave to the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.4",
+      "edition_verse_id": "WEBSTER1833:JOS.21.4",
+      "verse": 4,
+      "spans": [
+        {
+          "text": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, ",
+          "kind": "text"
+        },
+        {
+          "text": "who were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.5",
+      "edition_verse_id": "WEBSTER1833:JOS.21.5",
+      "verse": 5,
+      "spans": [
+        {
+          "text": "And the rest of the children of Kohath ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half-tribe of Manasseh, ten cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.6",
+      "edition_verse_id": "WEBSTER1833:JOS.21.6",
+      "verse": 6,
+      "spans": [
+        {
+          "text": "And the children of Gershon ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half-tribe of Manasseh in Bashan, thirteen cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.7",
+      "edition_verse_id": "WEBSTER1833:JOS.21.7",
+      "verse": 7,
+      "spans": [
+        {
+          "text": "The children of Merari by their families ",
+          "kind": "text"
+        },
+        {
+          "text": "had",
+          "kind": "supplied"
+        },
+        {
+          "text": " out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.8",
+      "edition_verse_id": "WEBSTER1833:JOS.21.8",
+      "verse": 8,
+      "spans": [
+        {
+          "text": "And the children of Israel gave by lot to the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.9",
+      "edition_verse_id": "WEBSTER1833:JOS.21.9",
+      "verse": 9,
+      "spans": [
+        {
+          "text": "And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are ",
+          "kind": "text"
+        },
+        {
+          "text": "here",
+          "kind": "supplied"
+        },
+        {
+          "text": " mentioned by name,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.10",
+      "edition_verse_id": "WEBSTER1833:JOS.21.10",
+      "verse": 10,
+      "spans": [
+        {
+          "text": "Which the children of Aaron, ",
+          "kind": "text"
+        },
+        {
+          "text": "being",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the families of the Kohathites, ",
+          "kind": "text"
+        },
+        {
+          "text": "who were",
+          "kind": "supplied"
+        },
+        {
+          "text": " of the children of Levi, had: for theirs was the first lot.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.11",
+      "edition_verse_id": "WEBSTER1833:JOS.21.11",
+      "verse": 11,
+      "spans": [
+        {
+          "text": "And they gave them the city of Arba the father of Anak (which ",
+          "kind": "text"
+        },
+        {
+          "text": "city is",
+          "kind": "supplied"
+        },
+        {
+          "text": " Hebron) in the hill -",
+          "kind": "text"
+        },
+        {
+          "text": " country",
+          "kind": "supplied"
+        },
+        {
+          "text": " of Judah, with its suburbs round it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.12",
+      "edition_verse_id": "WEBSTER1833:JOS.21.12",
+      "verse": 12,
+      "spans": [
+        {
+          "text": "But the fields of the city, and its villages, they gave to Caleb the son of Jephunneh for his possession.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.13",
+      "edition_verse_id": "WEBSTER1833:JOS.21.13",
+      "verse": 13,
+      "spans": [
+        {
+          "text": "Thus they gave to the children of Aaron the priest, Hebron with its suburbs, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city of refuge for the slayer; and Libnah with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.14",
+      "edition_verse_id": "WEBSTER1833:JOS.21.14",
+      "verse": 14,
+      "spans": [
+        {
+          "text": "And Jattir with its suburbs, and Eshtemoa with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.15",
+      "edition_verse_id": "WEBSTER1833:JOS.21.15",
+      "verse": 15,
+      "spans": [
+        {
+          "text": "And Holon with its suburbs, and Debir with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.16",
+      "edition_verse_id": "WEBSTER1833:JOS.21.16",
+      "verse": 16,
+      "spans": [
+        {
+          "text": "And Ain with its suburbs, and Juttah with its suburbs, ",
+          "kind": "text"
+        },
+        {
+          "text": "and",
+          "kind": "supplied"
+        },
+        {
+          "text": " Beth-shemesh with its suburbs; nine cities out of those two tribes.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.17",
+      "edition_verse_id": "WEBSTER1833:JOS.21.17",
+      "verse": 17,
+      "spans": [
+        {
+          "text": "And out of the tribe of Benjamin, Gibeon with its suburbs, Geba with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.18",
+      "edition_verse_id": "WEBSTER1833:JOS.21.18",
+      "verse": 18,
+      "spans": [
+        {
+          "text": "Anathoth with its suburbs, and Almon with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.19",
+      "edition_verse_id": "WEBSTER1833:JOS.21.19",
+      "verse": 19,
+      "spans": [
+        {
+          "text": "All the cities of the children of Aaron, the priests, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirteen cities with their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.20",
+      "edition_verse_id": "WEBSTER1833:JOS.21.20",
+      "verse": 20,
+      "spans": [
+        {
+          "text": "And the families of the children of Kohath, the Levites who remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.21",
+      "edition_verse_id": "WEBSTER1833:JOS.21.21",
+      "verse": 21,
+      "spans": [
+        {
+          "text": "For they gave them Shechem with its suburbs in mount Ephraim, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city of refuge for the slayer; and Gezer with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.22",
+      "edition_verse_id": "WEBSTER1833:JOS.21.22",
+      "verse": 22,
+      "spans": [
+        {
+          "text": "And Kibzaim with its suburbs, and Beth-horon with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.23",
+      "edition_verse_id": "WEBSTER1833:JOS.21.23",
+      "verse": 23,
+      "spans": [
+        {
+          "text": "And out of the tribe of Dan, Eltekeh with its suburbs, Gibbethon with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.24",
+      "edition_verse_id": "WEBSTER1833:JOS.21.24",
+      "verse": 24,
+      "spans": [
+        {
+          "text": "Ajalon with its suburbs, Gath-rimmon with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.25",
+      "edition_verse_id": "WEBSTER1833:JOS.21.25",
+      "verse": 25,
+      "spans": [
+        {
+          "text": "And out of the half-tribe of Manasseh, Taanach with its suburbs, and Gath-rimmon with its suburbs; two cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.26",
+      "edition_verse_id": "WEBSTER1833:JOS.21.26",
+      "verse": 26,
+      "spans": [
+        {
+          "text": "All the cities ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " ten with their suburbs, for the families of the children of Kohath that remained.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.27",
+      "edition_verse_id": "WEBSTER1833:JOS.21.27",
+      "verse": 27,
+      "spans": [
+        {
+          "text": "And to the children of Gershon, of the families of the Levites, out of the ",
+          "kind": "text"
+        },
+        {
+          "text": "other",
+          "kind": "supplied"
+        },
+        {
+          "text": " half-tribe of Manasseh ",
+          "kind": "text"
+        },
+        {
+          "text": "they gave",
+          "kind": "supplied"
+        },
+        {
+          "text": " Golan in Bashan with its suburbs, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city of refuge for the slayer, and Beesh-terah with its suburbs; two cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.28",
+      "edition_verse_id": "WEBSTER1833:JOS.21.28",
+      "verse": 28,
+      "spans": [
+        {
+          "text": "And out of the tribe of Issachar, Kishon with its suburbs, Dabareh with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.29",
+      "edition_verse_id": "WEBSTER1833:JOS.21.29",
+      "verse": 29,
+      "spans": [
+        {
+          "text": "Jarmuth with its suburbs, En-gannim with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.30",
+      "edition_verse_id": "WEBSTER1833:JOS.21.30",
+      "verse": 30,
+      "spans": [
+        {
+          "text": "And out of the tribe of Asher, Mishal with its suburbs, Abdon with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.31",
+      "edition_verse_id": "WEBSTER1833:JOS.21.31",
+      "verse": 31,
+      "spans": [
+        {
+          "text": "Helkath with its suburbs, and Rehob with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.32",
+      "edition_verse_id": "WEBSTER1833:JOS.21.32",
+      "verse": 32,
+      "spans": [
+        {
+          "text": "And out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city of refuge for the slayer; and Hammoth-dor with its suburbs, and Kartan with its suburbs; three cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.33",
+      "edition_verse_id": "WEBSTER1833:JOS.21.33",
+      "verse": 33,
+      "spans": [
+        {
+          "text": "All the cities of the Gershonites, according to their families, ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " thirteen cities with their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.34",
+      "edition_verse_id": "WEBSTER1833:JOS.21.34",
+      "verse": 34,
+      "spans": [
+        {
+          "text": "And to the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with its suburbs, and Kartah with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.35",
+      "edition_verse_id": "WEBSTER1833:JOS.21.35",
+      "verse": 35,
+      "spans": [
+        {
+          "text": "Dimnah with its suburbs, Nahalal with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.36",
+      "edition_verse_id": "WEBSTER1833:JOS.21.36",
+      "verse": 36,
+      "spans": [
+        {
+          "text": "And out of the tribe of Reuben, Bezer with its suburbs, and Jahazah with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.37",
+      "edition_verse_id": "WEBSTER1833:JOS.21.37",
+      "verse": 37,
+      "spans": [
+        {
+          "text": "Kedemoth with its suburbs, and Mephaath with its suburbs; four cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.38",
+      "edition_verse_id": "WEBSTER1833:JOS.21.38",
+      "verse": 38,
+      "spans": [
+        {
+          "text": "And out of the tribe of Gad, Ramoth in Gilead with its suburbs ",
+          "kind": "text"
+        },
+        {
+          "text": "to be",
+          "kind": "supplied"
+        },
+        {
+          "text": " a city of refuge for the slayer; and Mahanaim with its suburbs,",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.39",
+      "edition_verse_id": "WEBSTER1833:JOS.21.39",
+      "verse": 39,
+      "spans": [
+        {
+          "text": "Heshbon with its suburbs, Jazer with its suburbs; four cities in all.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.40",
+      "edition_verse_id": "WEBSTER1833:JOS.21.40",
+      "verse": 40,
+      "spans": [
+        {
+          "text": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were ",
+          "kind": "text"
+        },
+        {
+          "text": "by",
+          "kind": "supplied"
+        },
+        {
+          "text": " their lot twelve cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.41",
+      "edition_verse_id": "WEBSTER1833:JOS.21.41",
+      "verse": 41,
+      "spans": [
+        {
+          "text": "All the cities of the Levites within the possession of the children of Israel ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " forty and eight cities with their suburbs.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.42",
+      "edition_verse_id": "WEBSTER1833:JOS.21.42",
+      "verse": 42,
+      "spans": [
+        {
+          "text": "These cities were every one with their suburbs around them. Thus ",
+          "kind": "text"
+        },
+        {
+          "text": "were",
+          "kind": "supplied"
+        },
+        {
+          "text": " all these cities.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.43",
+      "edition_verse_id": "WEBSTER1833:JOS.21.43",
+      "verse": 43,
+      "spans": [
+        {
+          "text": "And the LORD gave to Israel all the land which he swore to give to their fathers: and they possessed it, and dwelt in it.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.44",
+      "edition_verse_id": "WEBSTER1833:JOS.21.44",
+      "verse": 44,
+      "spans": [
+        {
+          "text": "And the LORD gave them rest on all sides, according to all that he swore to their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    },
+    {
+      "id": "JOS.21.45",
+      "edition_verse_id": "WEBSTER1833:JOS.21.45",
+      "verse": 45,
+      "spans": [
+        {
+          "text": "There failed not aught of any good thing which the LORD had spoken to the house of Israel; all came to pass.",
+          "kind": "text"
+        }
+      ],
+      "paragraph_start": false
+    }
+  ]
+}

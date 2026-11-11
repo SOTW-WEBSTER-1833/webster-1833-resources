@@ -1,0 +1,28 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "JON",
+  "chapter_count": 4,
+  "verse_count": 48,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 17,
+      "sha256": "68b7dde839b7f4b85ca7b0e3563c06746d5f78ba1a7ef720970e8f1bdb8d17ec"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 10,
+      "sha256": "e33d85ac50438f2ba6fc5e002c94dd4893bc52a8f5b996ce893963caaffeb70c"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 10,
+      "sha256": "b2d2e69b63637b02de3509613d9d60ea0620dfbae2018a3da1bbe3d0940bb157"
+    },
+    {
+      "chapter": 4,
+      "verse_count": 11,
+      "sha256": "16a1d87d803b53c686cbbbe6468a990f683d9af85c74cbff8a090e1b179fb31d"
+    }
+  ]
+}

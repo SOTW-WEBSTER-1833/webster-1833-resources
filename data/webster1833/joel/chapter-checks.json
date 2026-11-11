@@ -1,0 +1,23 @@
+{
+  "edition_id": "WEBSTER1833",
+  "book_code": "JOL",
+  "chapter_count": 3,
+  "verse_count": 73,
+  "chapters": [
+    {
+      "chapter": 1,
+      "verse_count": 20,
+      "sha256": "76f138e7c2d9aa08b6630cd666712714fa03c1cd3b37dae3cf08e3924bb28a0a"
+    },
+    {
+      "chapter": 2,
+      "verse_count": 32,
+      "sha256": "fb36c0b39ad6ff96017d84086d502130bb555542ac7a42240626e36c84b88922"
+    },
+    {
+      "chapter": 3,
+      "verse_count": 21,
+      "sha256": "d45e50e775014f70128dfce5341e6c8d4fd097482cd2328b2b714f314c929eba"
+    }
+  ]
+}
