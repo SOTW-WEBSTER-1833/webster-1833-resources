@@ -1,0 +1,35 @@
+{
+  "kind": "sotw_historical_commentary_authorized_direct_github_install",
+  "edition_id": "WEBSTER1833",
+  "repository": "SOTW-WEBSTER-1833/webster-1833-resources",
+  "baseline_main_commit": "3baf1b6c49ae345b1e4a7277962c85d71597f610",
+  "baseline_historical_commit": "96d361a2675c448c65c9aa4f24b5b5bcd12ce85d",
+  "file_count": 5,
+  "preserve_verses_and_facsimiles": true,
+  "files": [
+    {
+      "path": "assets/sotw-commentary/bridge.js",
+      "sha": "91b8c24964a7fe372905750ea811c19aa3d5b659",
+      "prior": null
+    },
+    {
+      "path": "assets/webster1833/reader.js",
+      "sha": "9664680ba51fc6d1d1bc77721f0f09236afeddac",
+      "prior": "55b04d2ee13995340c0002ea4c976d10ea6ea74c",
+      "changed": true
+    },
+    {
+      "path": "data/webster1833/route-map.json",
+      "sha": "6e2a250174b02d5a371bc04e78010e0845076cfd",
+      "prior": "1f29d76b7cb6e3775a4002442423a9b0d2bb0300",
+      "changed": true
+    },
+    {
+      "path": "data/webster1833/historical-commentary-bridge-v1.json",
+      "sha": "c81612eec945505d743cf9b9dbe6205f8b64b4e4",
+      "prior": null,
+      "changed": false
+    }
+  ],
+  "status": "STAGING_PENDING_REVIEW"
+}
